@@ -112,6 +112,7 @@ ol {
     box-sizing: border-box;
 }
 
+
 /* Background colors */
 
 #carpool .background-light {
@@ -249,19 +250,17 @@ ol {
 
 #carpool #welcome .welcomeTextTitle {
     font-size: 30px;
-    
     line-height: 32px;
     text-align: left;
     text-transform: uppercase;
 }
 
 #carpool #welcome .welcomeTextRest {
-  width: 100%;
-  
-  font-size: 14px;
-  line-height: 20px;
-  text-align: left;
-  margin-top: 10px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    margin-top: 10px;
 }
 
 #carpool .bgMedia {
@@ -310,7 +309,7 @@ ol {
     color: #e0e0e0;
     width: 490px;
     padding: 18px;
-  //  background-color: rgba(216,216,216,0.65);
+    //  background-color: rgba(216,216,216,0.65);
 }
 
 #carpool #welcome .welcomeHeaderOverlay .welcomeText {
@@ -412,9 +411,9 @@ ol {
 }
 
 #carpool .sectionDetailContainer .animationTextHeader {
-    font-size:40px;
+    font-size: 40px;
     color: #A4A4A4;
-    line-height:28px;
+    line-height: 28px;
     margin-bottom: 39px;
 }
 
@@ -451,9 +450,9 @@ ol {
 }
 
 #carpool .sectionTitle {
-    font-size:48px;
+    font-size: 48px;
     color: #A4A4A4;
-    line-height:25px;
+    line-height: 25px;
 }
 
 #carpool .sectionText {
@@ -483,7 +482,6 @@ ol {
     line-height: 24px;
 }
 
-
 #carpool #thoughts .postList li:nth-child(n+5) {
     display: none;
 }
@@ -494,10 +492,10 @@ ol {
 }
 
 #carpool #thoughts .postTitle {
-    font-size:17px;
-    color:#67bc46;
-    line-height:21px;
-    text-align:left;
+    font-size: 17px;
+    color: #67bc46;
+    line-height: 21px;
+    text-align: left;
 }
 
 #carpool #thoughts .postAuthor {
@@ -541,7 +539,7 @@ ol {
 }
 
 #carpool #thoughts .postItem a {
-    color:#67bc46;
+    color: #67bc46;
 }
 
 #carpool #connect .apply a {
@@ -659,9 +657,9 @@ ol {
 }
 
 #postArticle #postBody > p:nth-child(2) {
-    font-size:24px;
-    color:#000000;
-    line-height:37px;
+    font-size: 24px;
+    color: #000000;
+    line-height: 37px;
     margin-bottom: 1em;
     margin-top: 0em;
 }
@@ -718,17 +716,18 @@ ol {
 }
 
 #postArticle .btnStack {
-    width:40px;
+    width: 40px;
 }
+
 #postArticle .author {
-    width:100px;
-    float:left;
+    width: 100px;
+    float: left;
     margin: 25px 80px 0 -80px;
 }
 
 #postArticle .author .picture {
-    width:100px;
-    margin:auto;
+    width: 100px;
+    margin: auto;
 }
 
 #postArticle .author .name {
@@ -742,7 +741,6 @@ ol {
 #postArticle .btnFacebook {
     display: inline-block;
     margin-top: 22px;
-
 }
 
 #postArticle .authorAndBody {
@@ -779,7 +777,7 @@ ol {
 
 #carpool .header .logoContainer {
     margin: 8px;
-    height:53px;
+    height: 53px;
     background: url('/carpool/img/svg_icons/carpool_logo_white.svg');
     width: 175px;
     background-size: contain;
@@ -813,6 +811,7 @@ ol {
     text-transform: uppercase;
 }
 
+
 /*
  * Footer
  */
@@ -840,18 +839,16 @@ ol {
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 316px;
-
 }
 
 #carpool .footerLinksContainer .text {
-    font-size:30px;
-    color:#ffffff;
-    line-height:32px;
+    font-size: 30px;
+    color: #ffffff;
+    line-height: 32px;
     text-align: center;
     position: relative;
-    top:141px;
+    top: 141px;
 }
-
 
 #carpool .aboutFooterLinksContainer {
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpool/img/9831.jpg');
@@ -867,8 +864,8 @@ ol {
     font-weight: lighter;
 }
 
-#carpool .footer .mailIcon .footerEmail img{
-  margin-top: 7px;
+#carpool .footer .mailIcon .footerEmail img {
+    margin-top: 7px;
 }
 
 
@@ -876,7 +873,7 @@ ol {
 
 #carpool .footer .messageFormBackground {
     position: relative;
-    background:#0c1d03;
+    background: #0c1d03;
     display: none;
     -webkit-box-shadow: inset 0px 25px 30px -30px rgba(0, 0, 0, 1);
     -moz-box-shadow: inset 0px 25px 30px -30px rgba(0, 0, 0, 1);
@@ -1109,7 +1106,7 @@ ol {
     -moz-transition: color .4s ease-out;
     -o-transition: color .4s ease-out;
     -ms-transition: color .4s ease-out;
-    transition: color .4s ease-out;      
+    transition: color .4s ease-out;
 }
 
 #carpool .aboutSectionPicture {
@@ -1140,10 +1137,10 @@ ol {
 }
 
 #carpool #about .aboutTopPicture .aboutTopText {
-    font-size:30px;
-    color:#ffffff;
-    line-height:32px;
-    text-align:center;
+    font-size: 30px;
+    color: #ffffff;
+    line-height: 32px;
+    text-align: center;
     padding-top: 210px;
     text-transform: uppercase;
 }
@@ -1160,11 +1157,11 @@ ol {
 }
 
 #carpool #work .workTopPicture .workTopText {
-    margin:0;
-    font-size:30px;
-    color:#ffffff;
-    line-height:32px;
-    text-align:center;
+    margin: 0;
+    font-size: 30px;
+    color: #ffffff;
+    line-height: 32px;
+    text-align: center;
     padding-top: 210px;
 }
 
@@ -1180,22 +1177,22 @@ ol {
 }
 
 #carpool #thoughts .thoughtsTopPicture h1 {
-  font-size: 48px;
-  font-weight: lighter;
+    font-size: 48px;
+    font-weight: lighter;
 }
-
 
 #carpool .homeTopPicture {
     background: url('/carpool/img/background_images/carpool_header_resize.jpg');
     background-size: cover;
     height: inherit;
     width: 100%;
-    position:relative;
+    position: relative;
 }
+
 .homeTopPicture:before {
     content: '';
     background-color: rgba(0, 0, 0, 0.27);
-    position: absolute; 
+    position: absolute;
     height: 100%;
     width: 100%;
 }
@@ -1219,19 +1216,19 @@ ol {
 
 #carpool .pdfIcon {
     background: url('/carpool/img/CaseStudy_1.png');
-    width:380px;
-    height:255px;
+    width: 380px;
+    height: 255px;
     background-size: contain;
-    float:left;
+    float: left;
     margin-right: 3em;
 }
 
 #carpool .pdfIcon2 {
     background: url('/carpool/img/CaseStudy_2.png');
-    width:379px;
-    height:255px;
+    width: 379px;
+    height: 255px;
     background-size: contain;
-    float:left;
+    float: left;
     margin-right: 3em;
 }
 
@@ -1241,20 +1238,20 @@ ol {
 }
 
 .featherlight-content {
-  width: 70vh;
-  background-color: transparent !important;
+    width: 70vh;
+    background-color: transparent !important;
 }
 
 .featherlight-close {
-  color:white !important;
-  font-size:25px;
-  background-color: transparent !important;
+    color: white !important;
+    font-size: 25px;
+    background-color: transparent !important;
 }
 
 #carpool #setUpConvoButton {
     background: #68bc47;
-    width:281px;
-    height:35px;
+    width: 281px;
+    height: 35px;
     color: white;
     text-transform: uppercase;
     padding: 4px 0;
@@ -1262,12 +1259,13 @@ ol {
 }
 
 #carpool #setUpConvoButton .buttonInnerText {
-    font-size:16px;
-    color:#ffffff;
-    line-height:27px;
-    text-align:left;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 27px;
+    text-align: left;
     padding-left: 1em;
 }
+
 #carpool div.buttonInnerText:after {
     content: '>';
     padding-left: 0.5em;
@@ -1275,17 +1273,20 @@ ol {
     position: relative;
     display: inline-block;
 }
+
 #carpool div.top-neg-1:after {
     top: -1px;
 }
-#carpool #about .overlay, #thoughts .overlay, #work .overlay {
-    background: rgba(0,0,0,0.3);
+
+#carpool #about .overlay,
+#thoughts .overlay,
+#work .overlay {
+    background: rgba(0, 0, 0, 0.3);
     height: 55vh;
 }
 
-
 #welcome .overlay {
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
     width: 100vw;
     height: 100vh;
 }
@@ -1295,30 +1296,29 @@ ol {
     background: #68bc47;
     width: 18em;
     margin-bottom: 13px;
-    float: left;    
+    float: left;
 }
 
 #carpool .postGrid .postItem {
     border-width: 1px;
     border-color: #ccc;
     border-style: solid;
-    
     transition: 1s opacity ease-out;
     -webkit-transition: 1s opacity ease-out;
     -moz-transition: 1s opacity ease-out;
-
-
 }
-#carpool .postGrid .postItem .postTitle, 
-#carpool .postGrid .postItem .postAuthor, 
+
+#carpool .postGrid .postItem .postTitle,
+#carpool .postGrid .postItem .postAuthor,
 #carpool .postGrid .postItem .postExcerpt {
-    margin:5px;
+    margin: 5px;
 }
 
 #postArticle #postBody p {
     margin-top: 1em;
 }
-#carpool .postGrid .postItem .postGreenBar{
+
+#carpool .postGrid .postItem .postGreenBar {
     width: 100%;
     height: 10px;
     background-color: #68bc47;
@@ -1338,9 +1338,9 @@ ol {
 
 #postArticle .articleTitle {
     margin: auto;
-    font-size:40px;
-    color:#68bc47;
-    line-height:44px;
+    font-size: 40px;
+    color: #68bc47;
+    line-height: 44px;
     width: 32em;
 }
 
@@ -1349,8 +1349,9 @@ ol {
     min-height: 554px;
     margin-top: 90px;
 }
+
 #archive a {
-    color:black;
+    color: black;
     -webkit-transition: color .4s ease-out;
     -moz-transition: color .4s ease-out;
     -o-transition: color .4s ease-out;
@@ -1358,10 +1359,10 @@ ol {
     transition: color .4s ease-out;
 }
 
-
 #archive a:hover {
     color: #67bc46;
 }
+
 #archive .postList {
     width: 40%;
     margin: auto;
@@ -1375,48 +1376,53 @@ ol {
 }
 
 #thoughts .archiveLink a {
-    color:black;
+    color: black;
     -webkit-transition: color .4s ease-out;
     -moz-transition: color .4s ease-out;
     -o-transition: color .4s ease-out;
     -ms-transition: color .4s ease-out;
-    transition: color .4s ease-out;    
+    transition: color .4s ease-out;
 }
 
 #work .caseStudy a {
-    color:#67bc46;
+    color: #67bc46;
 }
 
-
-
 #postArticle blockquote {
-    display: inline-block;
-    margin-left: 10px;
-    font-size: 4em;    
+        display: inline-block;
+    font-size: 4em;
+    position: relative;
+    padding: .5em 1em;
 }
 
 #postArticle #postBody blockquote p {
-    font-size: 40px;
-    line-height: 40px;
-    margin: 1em 1.5em 0em 1.8em;
+    font-size: 2.8571428571em;
+    line-height: 2.8571428571em;
 }
-#postArticle blockquote .closeQuote {
-    color:#67bc46;
-    position:relative;
-    float:right;    
-    font-size: 2em;
-    line-height: 1em;
-    font-family: 'Source Sans Pro';
-    margin-top: -80px;
+#postArticle #postBody blockquote p:nth-of-type(1) {
+    margin-top: 0;
 }
 
-#postArticle blockquote .openQuote {
-    color:#67bc46;
+blockquote:before,blockquote:after {
+    color: #67bc46;
     font-size: 2em;
     line-height: 1em;
-    transform: scale(-1, -1);
     font-family: 'Source Sans Pro';
-    float: left;    
+    content: ",,";
+    position: absolute;
+}
+
+blockquote:before {
+    top: 0;
+    transform: scale(-1, -1);
+    left: 0;
+}
+
+blockquote:after {
+    position: absolute;
+    bottom: 0em;
+    right: 0em;
+    margin-bottom: -0.05em;
 }
 
 #postArticle blockquote h2 {
@@ -1435,7 +1441,8 @@ ol {
 }
 
 #carpool .footer .contactFormDropdownContainer {
-    padding-top: 50px; padding-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 40px;
     background: #333;
     -webkit-box-shadow: inset 0px 25px 30px -30px rgba(0, 0, 0, 1);
     -moz-box-shadow: inset 0px 25px 30px -30px rgba(0, 0, 0, 1);
@@ -1443,19 +1450,38 @@ ol {
 }
 
 #carpool #contactForm .contactName {
-    display: block; float: left; line-height: 1.4em; width: 48.5%; margin-right: 3%; font-size: 1.28em; padding: 5px 10px; border: none;
+    display: block;
+    float: left;
+    line-height: 1.4em;
+    width: 48.5%;
+    margin-right: 3%;
+    font-size: 1.28em;
+    padding: 5px 10px;
+    border: none;
 }
 
 #carpool #contactForm .contactEmail {
-    display: block; float: left; line-height: 1.4em; width: 48.5%; font-size: 1.28em; padding: 5px 10px; border: none;
+    display: block;
+    float: left;
+    line-height: 1.4em;
+    width: 48.5%;
+    font-size: 1.28em;
+    padding: 5px 10px;
+    border: none;
 }
 
 #carpool #contactForm .contactMessage {
-    width: 100%; height: 10em; margin-top: 1.5em; font-size: 1.28em; padding: 5px 10px; line-height: 1.4em; border: none;
+    width: 100%;
+    height: 10em;
+    margin-top: 1.5em;
+    font-size: 1.28em;
+    padding: 5px 10px;
+    line-height: 1.4em;
+    border: none;
 }
 
 #carpool #contactForm .submitButton {
-    background: rgba(0,0,0,0);
+    background: rgba(0, 0, 0, 0);
     font-size: 1.28em;
     padding: 5px 40px;
     line-height: 1.4em;
@@ -1478,49 +1504,67 @@ ol {
     font-size: 21px;
 }
 
-#carpool #contactForm .contactName, #carpool #contactForm .contactEmail {
+#carpool #contactForm .contactName,
+#carpool #contactForm .contactEmail {
     margin-bottom: 24px;
 }
 
-#carpool #contactForm input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #ccc;
-}
-#carpool #contactForm input::-moz-placeholder { /* Firefox 19+ */
-  color: #ccc;
-}
-#carpool #contactForm input:-ms-input-placeholder { /* IE 10+ */
-  color: #ccc;
-}
-#carpool #contactForm input:-moz-placeholder { /* Firefox 18- */
-  color: #ccc;
-}
-#carpool #contactForm textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #ccc;
-}
-#carpool #contactForm textarea::-moz-placeholder { /* Firefox 19+ */
-  color: #ccc;
-}
-#carpool #contactForm textarea:-ms-input-placeholder { /* IE 10+ */
-  color: #ccc;
-}
-#carpool #contactForm textarea:-moz-placeholder { /* Firefox 18- */
-  color: #ccc;
+#carpool #contactForm input::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #ccc;
 }
 
-#carpool .text-uppercase {text-transform: uppercase;}
+#carpool #contactForm input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #ccc;
+}
+
+#carpool #contactForm input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #ccc;
+}
+
+#carpool #contactForm input:-moz-placeholder {
+    /* Firefox 18- */
+    color: #ccc;
+}
+
+#carpool #contactForm textarea::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #ccc;
+}
+
+#carpool #contactForm textarea::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #ccc;
+}
+
+#carpool #contactForm textarea:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #ccc;
+}
+
+#carpool #contactForm textarea:-moz-placeholder {
+    /* Firefox 18- */
+    color: #ccc;
+}
+
+#carpool .text-uppercase {
+    text-transform: uppercase;
+}
 
 #carpool #contactFormNotification {
-    position:absolute;
-    top:168px;
-    width:812px;
-    z-index:105;
-    text-align:center;
-    font-weight:normal;
-    font-size:24px;
-    font-weight:bold;
-    color:white;
-    background-color:#248000;
-    padding:5px;
+    position: absolute;
+    top: 168px;
+    width: 812px;
+    z-index: 105;
+    text-align: center;
+    font-weight: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #248000;
+    padding: 5px;
 }
 
 /* Disable scrolling on Google map */
