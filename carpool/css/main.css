@@ -1509,6 +1509,12 @@ blockquote:after {
     margin-bottom: 24px;
 }
 
+#carpool #contactForm .contactName,
+#carpool #contactForm .contactEmail,
+#carpool #contactForm .contactMessage {
+    outline-color: #68bc47;
+}
+
 #carpool #contactForm input::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     color: #ccc;
