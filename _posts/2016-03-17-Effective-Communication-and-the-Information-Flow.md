@@ -10,9 +10,7 @@ Communication is about much more than the tools we use. When we focus on just th
 
 <!--more-->
 
-# Effective Communication and the Information Flow
-
-Communication is about much more than the tools we use. When we focus on just the tools, we gloss over an essential element of the conversation we should be having.
+# Communication is about much more than the tools we use. When we focus on just the tools, we gloss over an essential element of the conversation we should be having.
 
 Rather than dissecting the way we communicate, it’s time to begin discussing the how and why.
 
