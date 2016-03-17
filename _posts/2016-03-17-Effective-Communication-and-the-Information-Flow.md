@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post Template
+title: Effective Communication and the Information Flow
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/InformationFlow.png
@@ -10,7 +10,7 @@ Communication is about much more than the tools we use. When we focus on just th
 
 <!--more-->
 
-#Effective Communication and the Information Flow
+# Effective Communication and the Information Flow
 
 Communication is about much more than the tools we use. When we focus on just the tools, we gloss over an essential element of the conversation we should be having.
 
