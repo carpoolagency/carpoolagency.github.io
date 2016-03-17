@@ -56,6 +56,7 @@ var showContactFormDropdown = function ( ) {
     hideLocationDropdown( );
     $( ".footer .contactFormDropdownContainer" )
         .slideDown( 200 );
+    $( '.contactName' ).focus();
     $( 'html,body' )
         .animate( {
             scrollTop: $( "footer.footer" )
