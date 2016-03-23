@@ -6,7 +6,7 @@ authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/butterfly.png
 stage: true
 ---
-To understand how information flows through a complex business environment, look no further than the mighty butterfly. And to do that, we should consult Dr. Ian Malcolm.
+To understand the [information flow](http://carpoolagency.com/articles/Effective-Communication-and-the-Information-Flow.html) of a complex business environment, look no further than the mighty butterfly. And to do that, we should consult Dr. Ian Malcolm.
 
 <!--more-->
 
@@ -32,6 +32,6 @@ However, a study published in the *Journal of Personality and Social Psychology*
 
 In order to form that trust, workers need an environment that encourages them to be open, which often isn’t the case. One employee survey conducted by New Norms @Work, found that just 16% said they feel more comfortable sharing their opinions on industry matters through social networking sites. 
 
-It's safe to say that in many workplaces employees limit their impact by keeping their work private. In essence, the metaphorical workplace butterfly is flapping his wings in a vacuum and getting nowhere. Granted, work gets done, quotas get met, and the company probably gets by just fine. But in a world that is constantly changing, isn't it also necessary to change how we work? Consider that in the [tech industry](http://www.zdnet.com/article/ageism-in-tech-sector-survey-uncovers-large-age-difference/), the median age of employees is 30 or younger. This is a group of people who are accustomed to sharing their work in connected social environments, and their ideas are likely valuable to company growth. It was this type of thinking that led former [General Electric chairman and CEO Jack Welch](http://www.wsj.com/articles/SB10001424052970203764804577060051461094004) to push 500 top-level executives to engage with younger employees and learn how to use the Internet in the late '90s.  
+It's safe to say that in many workplaces employees limit their impact by keeping their work private. In essence, the metaphorical workplace butterfly is flapping his wings in a vacuum and getting nowhere. Granted, work gets done, quotas get met, and the company probably gets by just fine. But in a world that is constantly changing, isn't it also necessary to change how we work? Consider that in the [tech industry](http://www.zdnet.com/article/ageism-in-tech-sector-survey-uncovers-large-age-difference/), the median age of employees is 30 or younger. This is a group of people who are accustomed to sharing their work in connected [social](http://carpoolagency.com/articles/Being-Social-is-Like-Learning-to-eat-Vegetables.html) environments, and their ideas are likely valuable to company growth. It was this type of thinking that led former [General Electric chairman and CEO Jack Welch](http://www.wsj.com/articles/SB10001424052970203764804577060051461094004) to push 500 top-level executives to engage with younger employees and learn how to use the Internet in the late '90s.  
 
 The workplace is a system, much like any other. And like any system, evolution often begins with small, incremental changes that transform into something far greater.
