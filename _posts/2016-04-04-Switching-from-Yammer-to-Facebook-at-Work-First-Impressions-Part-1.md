@@ -6,17 +6,17 @@ authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/veg.jpg
 stage: true
 ---
-Carpool is a social place—really social. Most of our informal conversations take place over an enterprise social network (ESN), and very little, if any communicating is relegated to email (emailing within Carpool can result in lashings, depending on the egregiousness of the offense).
+Carpool is a social place—really social. Most of our [informal conversations](http://carpoolagency.com/articles/Effective-Communication-and-the-Information-Flow.html) take place over an [enterprise social network](http://carpoolagency.com/articles/5-Arguments-Against-Going-Social-and-How-to-Combat-Them.html) (ESN), and very little, if any communicating is relegated to [email](http://carpoolagency.com/articles/What-Rats-Can-Teach-Us-About-Email.html) (emailing within Carpool can result in lashings, depending on the egregiousness of the offense).
 
 <!--more-->
 
-Previously, we were a Yammer kind of company. We used Yammer a lot and we did it effectively. However, we also like to try new things and stay ahead of new developments within internal communications. So when we had the unique opportunity to try out Facebook at Work (FB@W), we jumped at it.
+Previously, we were a Yammer kind of company. We used Yammer a lot and we did it effectively. However, we also like to try new things and stay ahead of new developments within internal communications. So when we had the unique opportunity to try out [Facebook at Work](https://work.fb.com/) (FB@W), we jumped at it.
 
 There was no transitional period, no prep work. We just did it. One day we were on Yammer, then next day we were on Facebook. There was no pain, only a few tears shed, and generally the Carpool team made the switch with ease. After about a month on the new platform, we’ve had enough time to compare and contrast between Facebook and Yammer, and just marinate on the Facebook vibe. Below, you will find a variety of opinions on the strengths and weaknesses of Facebook at Work from Carpool employees. Some of them work right here in Bellevue, others have a different perspective as remote employees who do their work from the San Francisco Bay Area and Salt Lake City.
   
 In this, the first of a two-part series, find out what Carpool Director of Strategy Chris Slemp and Strategy Manager Noah Sparks have to say about the tool. In the next installment, we'll bring you impressions from Account Lead Katie Stout, Account Manager Cameron Masters, and Project Manager Kylie Looper.
 
-Chris: Strategist, 3-year Yammer veteran, Bellevue
+[Chris](http://twitter.com/cslemp): Strategist, 3-year Yammer veteran, Bellevue
 --------------------------------------------------
 
 Upon landing in the new FB@W world, I had this strange feeling of both welcome and confusion. Everything was familiar and inviting, but a post publisher was missing from the FB@W homepage. Instead, FB@W pushed me toward groups, but the small size of our company resulted in links to active groups duplicating the group links in the left navigation. In a large enterprise, the active groups could be shown somewhere else. It’s wise to direct posts toward groups, but give me the option to post in some other way, too.
@@ -33,18 +33,18 @@ Notifications are one of the main drivers for FB. While they don’t bother me i
   
 But there are other, highly encouraging features. For example, I was driving to the office during my first week on the job and needed to contact our HR person. As a new hire, I didn’t have her phone number. At a stop light, I sent a quick chat message asking for the info I needed. 10 minutes later, I got what sounded like a phone call. Picking it up on Bluetooth, I realized I was picking up a FB@W audio call. I didn’t even know the feature existed, and I was using it seamlessly.
   
-I now believe the recent predictions that phone numbers are destined for the dustbin of history right next to fax numbers. Good riddance!
+I now believe the [recent predictions](http://www.theguardian.com/technology/shortcuts/2016/jan/10/end-of-the-phone-number-facebook-messenger) that phone numbers are destined for the dustbin of history right next to fax numbers. Good riddance!
 
-Noah: Strategist, 6-year Yammer veteran, Salt Lake City
+[Noah](http://twitter.com/noahsparks): Strategist, 6-year Yammer veteran, Salt Lake City
 -------------------------------------------------------
 
-I fell in love with Yammer 2.0 back in 2010. There was so much promise. Those who joined me on that early enterprise social journey were pleasantly surprised with the serendipitous results and compelling conversation we cultivated. Cultural change is accelerated as you influence the conversations you share with one another.
+I fell in love with [Yammer 2.0](http://finance.yahoo.com/news/Yammer-20-Launches-a-Secure-iw-1422694589.html) back in 2010. There was so much promise. Those who joined me on that early enterprise social journey were pleasantly surprised with the serendipitous results and compelling conversation we cultivated. Cultural change is accelerated as you influence the conversations you share with one another.
   
-When I am new to a community, I listen for conversations that seem more crucial and time sensitive than others. While I have my ear to the ground, I am poking the FB@W box and the other mix of tools Carpool uses to to do work better.
+When I am new to a community, I listen for conversations that seem more crucial and time sensitive than others. While I have my ear to the ground, I am poking the FB@W box and the other mix of tools Carpool uses to to [do work better](http://carpoolagency.com/).
   
 The dream of Yammer adding video conferencing still has not materialized. With FB@W, it’s baked into the package from the get-go. But the integration and ease of FB@W has been simultaneously delightful and disappointing. “Shouldn’t it be more work to harness all that power and get down to business with your colleagues?” I found myself wondering.
   
-I haven’t encountered the notion of related groups other than the four general buckets—teams and projects, announcements, open discussions, social and more—and suggested groups, which is really a list of groups I haven’t joined yet. How groups, people, and content relate imbues so much context in community interactions. I miss the enterprise graph that aggregates comments on the same object.
+I haven’t encountered the notion of related groups other than the four general buckets—teams and projects, announcements, open discussions, social and more—and suggested groups, which is really a list of groups I haven’t joined yet. How groups, people, and content relate imbues so much context in [community interactions](http://carpoolagency.com/articles/Support-Services.html). I miss the enterprise graph that aggregates comments on the same object.
   
 Trending is a nice way to keep tabs on active conversations, and search works well. Although there is room for improvement when it comes to clearing notifications. If I see a post/reply/reaction/share, I want any and all related indicators of notification to vanish across all channels. (And, pretty please, bake in a way to expand all replies.)
   
@@ -55,4 +55,4 @@ External groups are entirely absent at the moment, a feature we see great demand
 Keep the Conversation Alive
 ---------------------------
   
-What are your experiences with ESNs? Got any questions for us about FB@W or other internal social tools? We’d love to hear your feedback at Carpool’s Facebook Page and on Twitter @Carpool.
+What are your experiences with ESNs? Got any questions for us about FB@W or other [internal social tools](http://carpoolagency.com/articles/Being-Social-is-Like-Learning-to-eat-Vegetables.html)? We’d love to hear your feedback at [Carpool’s Facebook Page](https://www.facebook.com/carpooldigital/?fref=ts) and on Twitter [@Carpool](https://twitter.com/carpooldigital).
