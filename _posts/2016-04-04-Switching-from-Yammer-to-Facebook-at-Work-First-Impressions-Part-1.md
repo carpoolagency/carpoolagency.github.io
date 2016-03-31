@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switching from Yammer to Facebook at Work: First Impressions (Part 1)
+title: Switching from Yammer to Facebook at Work&#58; First Impressions (Part 1)
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/veg.jpg
