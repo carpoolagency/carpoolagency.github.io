@@ -4,7 +4,6 @@ title: Switching from Yammer to Facebook at Work&#58; First Impressions (Part 2)
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/FacebookatWork2.png
-stage: true
 ---
 In this, the final piece of our series on Facebook at Work (FB@W) adoption at [Carpool](http://carpoolagency.com/), we are happy to bring you impressions from Account Lead Katie Stout, Account Manager Cameron Masters, and Project Manager Kylie Looper.
 <!--more-->
