@@ -72,7 +72,8 @@
     }
 
     .featherlight .featherlight-image {
-        width: 90vw;
+        max-width: 90vw;
+        width:100%;
     }
 
     .featherlight-iframe .featherlight-content {
