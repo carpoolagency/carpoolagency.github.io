@@ -1576,7 +1576,7 @@ blockquote:after {
 /* Disable scrolling on Google map */
 .locationDropdownContainer iframe {pointer-events: none;}
 
-#carpool .c-58 {
+#carpool footer.footer .c-58 {
     width: 100%;
     max-width: 58em;
     display: -ms-flexbox;
