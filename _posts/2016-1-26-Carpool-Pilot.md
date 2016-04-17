@@ -3,7 +3,7 @@ layout: post
 title: Why you Should Do a Carpool Pilot
 author: Jarom Reid
 authorImage: jarom.jpg
-defaultImage: /carpool/img/posts_images/welcome.png
+defaultImage: /carpool/img/posts_images/welcome.jpg
 permalink: /articles/Pilot.html
 postType: services
 stage: true
