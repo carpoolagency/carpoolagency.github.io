@@ -4,6 +4,7 @@ title: What Responsive Design Can Teach Us About Syndicated Content
 author: Darren Litchfield
 authorImage: darren.jpg
 defaultImage: /carpool/img/posts_images/see_no_evil.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_see_no_evil.jpg
 stage: true
 ---
 In Web design, a scattered strategy can lead to more hassle on the backend and a mess on the front end, with the design team managing multiple bugs across disconnected (though similar) platforms. 

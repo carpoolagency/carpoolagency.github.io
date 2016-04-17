@@ -4,6 +4,7 @@ title: Carpool Environment Design
 <!-- author: Colin Rigley -->
 noAuthor: true
 defaultImage: /carpool/img/posts_images/welcome.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_welcome.jpg
 postType: services
 stage: true
 ---

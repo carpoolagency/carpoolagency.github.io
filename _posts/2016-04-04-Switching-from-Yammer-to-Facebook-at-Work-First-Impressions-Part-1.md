@@ -4,6 +4,7 @@ title: Switching from Yammer to Facebook at Work&#58; First Impressions (Part 1)
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/FacebookatWork.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_FacebookatWork.jpg
 ---
 Carpool is a social place—really social. Most of our [informal conversations](http://carpoolagency.com/articles/Effective-Communication-and-the-Information-Flow.html) take place over an [enterprise social network](http://carpoolagency.com/articles/5-Arguments-Against-Going-Social-and-How-to-Combat-Them.html) (ESN), and very little, if any communicating is relegated to [email](http://carpoolagency.com/articles/What-Rats-Can-Teach-Us-About-Email.html) (emailing within Carpool can result in lashings, depending on the egregiousness of the offense).
 

@@ -4,6 +4,7 @@ title: Post Template
 author: Jarom Reid
 authorImage: jarom.jpg
 defaultImage: /carpool/img/posts_images/veg.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_veg.jpg
 stage: true
 ---
 This paragraph will appear as a summary of the post in the list.

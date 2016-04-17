@@ -4,6 +4,7 @@ title: A More Social Way of Being Anti-social
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/connect.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_connect.jpg
 stage: true
 ---
 Everything we do at Carpool is related to helping people make work a better place to be. This effort takes on many forms so our people have to be really good at experience design, community management, techonology and project management to name a few.

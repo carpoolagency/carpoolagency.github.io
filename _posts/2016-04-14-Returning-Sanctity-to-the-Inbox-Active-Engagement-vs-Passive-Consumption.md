@@ -4,6 +4,7 @@ title: Returning Sanctity to the Inbox&#58;  Active Engagement vs. Passive Consu
 author: Jarom Reid
 authorImage: jarom.jpg
 defaultImage: /carpool/img/posts_images/ActivePassiveEngagement.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_ActivePassiveEngagement.jpg
 ---
 Not much has changed about email.
 
