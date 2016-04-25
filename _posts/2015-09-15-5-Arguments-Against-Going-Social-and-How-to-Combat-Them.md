@@ -3,8 +3,8 @@ layout: post
 title: 5 Arguments Against Going Social and How to Combat Them
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/arguments.jpeg
-defaultImage_thumb: /carpool/img/posts_images/thumb_arguments.jpeg
+defaultImage: /carpoolagency/carpool/img/posts_images/arguments.jpeg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_arguments.jpeg
 ---
 
 The fact that you’re reading this implies that you are very much on board with the whole social enterprise thing. Chances are, you use Yammer, you work out loud, and you’ve found that it’s a pretty good deal.
@@ -19,7 +19,7 @@ Here are many of the arguments you will likely hear against using social tools a
 <p>That’s just at home. At work it’s not at all uncommon to feel like we’re spending most of our time managing information rather than completing actual work. Therefore the thought of adding any more information can be unwelcome to some.</p>
 <p>But there’s no need to be overwhelmed by extra information when most of it won’t require your attention — unless you’re curious enough to look. What’s most impressive about social tools like Yammer is is their ability to house massive amounts of conversation, work dialogue, and data storage of past projects, yet it can all be consumed passively. In other words, just because it’s there doesn’t mean you have to engage.</p>
 
-<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 360px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">All that being said, there<br>is value in observing<br>how millennials communicate.<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
+<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 360px;"><img src="/carpoolagency/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">All that being said, there<br>is value in observing<br>how millennials communicate.<img src="/carpoolagency/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
 
 ### 2. Too Many Tools
 <p>Here’s a common scenario most people imagine when you talk to them about a modern workplace: Get to work; open email, open IM, pull up team site, log in to company social network; check each one periodically throughout the day; tear hair from head as needed.</p>
@@ -32,7 +32,7 @@ Here are many of the arguments you will likely hear against using social tools a
 <p>They were raised in a world that is full of information, but they get to choose what information to digest and how. Despite some of their recent bad ideas — specifically the resurgence of the mustache — they’re naturally attuned to create, consume, and share massive amounts of content. This is both a product of the technology they use, as well as the way they use it.</p>
 <p>For older generations, let them know that mimicking millennials is more about observing how they communicate, not what they’re talking about.</p>
 
-<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 300px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">So it’s not as if he didn’t<br>look at his messages ... he<br>just didn’t open them.<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
+<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 300px;"><img src="/carpoolagency/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">So it’s not as if he didn’t<br>look at his messages ... he<br>just didn’t open them.<img src="/carpoolagency/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
 
 ### 4. Too Hard to Change
 <p>Sure, change is difficult. It’s the reason that email has survived as the predominant form of workplace communication despite losing ground in all other aspects of our lives. It’s the reason we still compose formal work communications with a greeting and a signature as an anachronism of the early days of pen-and-paper postage.

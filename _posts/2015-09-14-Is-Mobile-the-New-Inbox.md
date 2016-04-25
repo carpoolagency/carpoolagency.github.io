@@ -3,8 +3,8 @@ layout: post
 title: Is Mobile the New Inbox?
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/ismobile.jpeg
-defaultImage_thumb: /carpool/img/posts_images/thumb_ismobile.jpeg
+defaultImage: /carpoolagency/carpool/img/posts_images/ismobile.jpeg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_ismobile.jpeg
 ---
 
 <p>Most people really like their phones.<br/>
@@ -17,7 +17,7 @@ Every day, for example, the average millennial checks his or her phone 43 times 
 
 <p>But despite the amount of time and energy that millennials devote to consuming media — social or otherwise — it’s rare to hear them complain of being bogged down by overfilled inboxes or mounting piles of notifications. Actually, most people volunteer for the onslaught of information. According to <a href="http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging" target="_blank">research by Localytics</a>, more than half of mobile users enable push notifications on their phones.</p>
 
-<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 420px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 580px; float: left; padding-top: 20px;">It’s one of the best<br>communications devices<br>you own because it’s<br>good at filtering<br>content.<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
+<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 420px;"><img src="/carpoolagency/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 580px; float: left; padding-top: 20px;">It’s one of the best<br>communications devices<br>you own because it’s<br>good at filtering<br>content.<img src="/carpoolagency/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
 
 <p>What statistics like these indicate is that millennials — and logically other demographic groups — are constantly on their phones, regularly engaging with and creating content, navigating multiple apps at once, and actually inviting their apps to interrupt their days with notifications. Before you roll your eyes about this mild glorification of millennials, consider that the reason we focus on them is because they are the early adopters. They don’t understand the old ways of communicating because they were born digital. Although millennials are the poster children for change, most of us are living the same way in our consumer lives. We are living this change as well. It’s just that we’re also holding on to old habits because they work. One could argue that we’re making it harder on ourselves trying to do both: using phones at home and email at work.</p>
 
@@ -33,7 +33,7 @@ Every day, for example, the average millennial checks his or her phone 43 times 
 
 <p>The reason mobile devices have had such a critical impact on our lives is partially due to how we are able to manage notifications. An inbox might simply state that you have 500+ emails, which doesn’t provide much information about content, and is really more of a reminder that a chore awaits. Email can be organized into folders, but there is still little to differentiate one message from another based on its content.</p>
 
-<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 360px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 580px; float: left; padding-top: 20px;">Within the world of<br>internal communications,<br>we call this<br>‘compartmentalizing.’<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
+<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 360px;"><img src="/carpoolagency/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 580px; float: left; padding-top: 20px;">Within the world of<br>internal communications,<br>we call this<br>‘compartmentalizing.’<img src="/carpoolagency/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
 
 <p>With mobile apps, however, you know what kind of information is contained within, which immediately gives you a strong idea of how to interact with the notification and whether you need to engage actively or passively with the content. Apps on our phones have become the new version of email folders, but they provide more layers of formatting and responsive environments to interact with what’s on the screen. App developers are constantly fine tuning their products to improve the experience based on how users interact with the app and its content.</p>
 

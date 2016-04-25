@@ -3,8 +3,8 @@ layout: post
 title: The Trolleyology Conundrum and the Zen of Compartmentalization
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/trolleyology.jpeg
-defaultImage_thumb: /carpool/img/posts_images/thumb_trolleyology.jpeg
+defaultImage: /carpoolagency/carpool/img/posts_images/trolleyology.jpeg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_trolleyology.jpeg
 ---
 
 Every parent knows that the supermarket is a minefield of distractions with a kid in tow. The simple act of buying a gallon of milk with a child also means running through a gauntlet of treats and junk food that seem strategically placed for the sole purpose of pulling your shopping trip off course.

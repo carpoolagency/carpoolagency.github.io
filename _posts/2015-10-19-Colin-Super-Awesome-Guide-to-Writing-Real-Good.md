@@ -3,8 +3,8 @@ layout: post
 title: Colin's Super, Awesome Guide to Writing Real Good
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/typewriter.jpg
-defaultImage_thumb: /carpool/img/posts_images/thumb_typewriter.jpg
+defaultImage: /carpoolagency/carpool/img/posts_images/typewriter.jpg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_typewriter.jpg
 stage: true
 ---
 Writing is a lot like singing: Anyone can do it, fewer people devote the time to do it well, and even fewer seek out an audience to potentially criticize what they do.

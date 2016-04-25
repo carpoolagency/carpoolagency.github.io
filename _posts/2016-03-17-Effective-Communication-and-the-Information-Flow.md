@@ -3,8 +3,8 @@ layout: post
 title: Effective Communication and the Information Flow
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/InformationFlow.jpg
-defaultImage_thumb: /carpool/img/posts_images/thumb_InformationFlow.jpg
+defaultImage: /carpoolagency/carpool/img/posts_images/InformationFlow.jpg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_InformationFlow.jpg
 ---
 Communication is about much more than the tools we use. When we focus on just the tools, we gloss over an essential element of the conversation we should be having.
 
@@ -20,7 +20,7 @@ This strategy is based on the way we use social tools outside of work to manage 
 
 In our personal lives, we naturally filter all of our various communications into the tools that best handle each interaction. But the business world has been lagging behind, largely because of our dependence on one tool — [email](http://carpoolagency.com/articles/What-Rats-Can-Teach-Us-About-Email.html) — to handle everything.
 
-![alt text](/carpool/img/posts_images/InformationFlow2.jpeg "Information Flow")
+![alt text](/carpoolagency/carpool/img/posts_images/InformationFlow2.jpeg "Information Flow")
 
 It makes more sense in a professional setting to organize efforts around conversation, creation, and consumption.
 

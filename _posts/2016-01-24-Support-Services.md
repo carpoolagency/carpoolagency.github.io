@@ -3,8 +3,8 @@ layout: post
 title: Carpool Support Services
 <!-- author: Colin Rigley -->
 noAuthor: true
-defaultImage: /carpool/img/posts_images/welcome.jpg
-defaultImage_thumb: /carpool/img/posts_images/thumb_welcome.jpg
+defaultImage: /carpoolagency/carpool/img/posts_images/welcome.jpg
+defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_welcome.jpg
 postType: services
 stage: true
 ---
