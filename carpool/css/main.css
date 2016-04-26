@@ -11620,7 +11620,7 @@ ol {
 #carpool .sectionTitle {
   font-size: 48px;
   color: #A4A4A4;
-  line-height: 25px; }
+  line-height: 48px; }
 
 #carpool .sectionText {
   font-size: 16px;
@@ -12186,7 +12186,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
 #carpool .banner {
   color: #FFF;
   text-align: center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 55vh;
@@ -12350,7 +12350,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   background-color: #68bc47; }
 
 #approach > div.row {
-  margin-top: -69px; }
+  margin-top: 0px; }
 
 .thoughtsTopPicture .row {
   font-size: 30px;
@@ -12743,6 +12743,9 @@ blockquote:after {
       transition: .3s transform ease-in-out;
       transform: translateX(0px);
       will-change: transform; }
+      #carpool.menu-active .header .menuContainer .globalNav li a {
+        padding: 1.1em;
+        display: block; }
     #carpool #welcome .welcomeHeaderOverlay {
       position: absolute;
       bottom: 10px;
@@ -12827,5 +12830,16 @@ blockquote:after {
       float: left;
       width: 72%;
       margin-bottom: 3em; } }
+@media (max-width: 35em) {
+  #carpool .sectionDetailContainer .sectionDetailImage {
+    padding: 5%;
+    height: 27em; }
+  #carpool .banner {
+    height: 20em; }
+  #carpool .caseStudy {
+    margin-bottom: 3em; }
+    #carpool .caseStudy > * {
+      width: 100%;
+      padding: 0 5%; } }
 
 /*# sourceMappingURL=main.css.map */

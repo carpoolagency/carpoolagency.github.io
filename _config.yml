@@ -1,5 +1,6 @@
 kelexcerpt_separator: "<!--more-->"
 permalink:  "/articles/:title.html"
+baseurl: "/carpoolagency/"
 collections:
   - people
-    
+

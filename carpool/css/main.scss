@@ -388,7 +388,7 @@ ol {
 #carpool .sectionTitle {
     font-size: 48px;
     color: #A4A4A4;
-    line-height: 25px;
+    line-height: 48px;
 }
 
 #carpool .sectionText {
@@ -1067,7 +1067,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 #carpool .banner {
     color: #FFF;
     text-align: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 55vh;
@@ -1262,7 +1262,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #approach > div.row {
-    margin-top: -69px;
+    margin-top: 0px;
 }
 
 .thoughtsTopPicture .row {
@@ -1725,7 +1725,11 @@ blockquote:after {
                     will-change: transform;
                     .globalNav {
                         li {
-                            a {}
+
+                            a {
+                                padding: 1.1em;
+                                display: block;
+                            }
                         }
                     }
                 }
@@ -1757,7 +1761,7 @@ blockquote:after {
         }
         footer.footer .iconLink {
             -webkit-order: 0;
-            -ms-flex-order: 0; 
+            -ms-flex-order: 0;
             -webkit-box-ordinal-group: 1;
             order: 0;
             -webkit-flex: 1 0 5em;
@@ -1813,7 +1817,7 @@ blockquote:after {
                 margin: 0 19px;
                 .name {
                     width: auto;
-                    text-align:center;
+                    text-align: center;
                 }
             }
             .postTitle {
@@ -1839,5 +1843,25 @@ blockquote:after {
                 margin-bottom: 3em;
             }
         }
+    }
+}
+
+@media (max-width: 35em) {
+    #carpool {
+        .sectionDetailContainer {
+            .sectionDetailImage {
+                padding: 5%;
+                height: 27em;
+            }
+        }
+        .banner {
+            height: 20em;
+        }
+        .caseStudy {
+            margin-bottom:3em;
+            > * {
+                    width: 100%;
+                    padding: 0 5%;
+                }}
     }
 }

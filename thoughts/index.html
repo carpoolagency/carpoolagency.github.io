@@ -6,7 +6,7 @@ title: Thoughts
 <!-- **
 *  Thoughts starts here
 * -->
-<section id="thoughts" class="carpool-page">  
+<section id="thoughts" class="carpool-page">
   <div class="thoughtsTopPicture banner">
     <div class="overlay">
       <div class="row center-margin text-uppercase">
@@ -27,7 +27,7 @@ title: Thoughts
         <div class="postGrid">
           {% for post in site.posts limit:30 %}
             {% if post.postType != "services" and post.stage != true %}
-            <div class="postItem c-18 mr-1 mb-1" style="opacity: 0;">
+            <div class="postItem c-18 mr-1 mb-1 p-p-22" style="opacity: 0;">
               <a href="{{ post.url }}">
                 <img src="{{ post.defaultImage_thumb }}" style="width:100%;"/>
                 <div class="postTitle"><b>{{ post.title }}</b></div>
