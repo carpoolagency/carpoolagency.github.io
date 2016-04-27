@@ -1230,6 +1230,15 @@ ol {
 	margin-right: 3em;
 }
 
+#carpool .pdfIcon3 {
+	background: url('/carpool/img/CaseStudy_3.png');
+	width: 380px;
+	height: 255px;
+	background-size: contain;
+	float: left;
+	margin-right: 3em;
+}
+
 #carpool #thoughts iframe {
 	margin-right: 3em;
 	margin-bottom: 3em;
