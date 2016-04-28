@@ -11334,6 +11334,11 @@ ol {
   box-sizing: border-box; }
 
 /* Background colors */
+#carpool .screenreader {
+  display: block;
+  height: 0;
+  overflow: hidden;
+  width: 0; }
 #carpool .background-light {
   background-color: #FFF; }
 
@@ -11345,6 +11350,8 @@ ol {
 
 #carpool .bg-lightGreen {
   background: #68bc47; }
+  #carpool .bg-lightGreen > div {
+    padding: 3em 1em; }
 
 #carpool .bg-yellow {
   background: #f9ec31; }
@@ -11584,7 +11591,7 @@ ol {
 #carpool .sectionDetailContainer .animationTextHeader {
   font-size: 40px;
   color: #A4A4A4;
-  line-height: 28px;
+  line-height: 44px;
   margin-bottom: 39px; }
 
 #carpool .sectionDetailContainer .animationTextContent {
@@ -11914,6 +11921,9 @@ ol {
   color: #FFF;
   text-transform: uppercase; }
 
+body.shrink .banner:nth-of-type(1) {
+  visibility: hidden !important; }
+
 /*
      * Footer
      */
@@ -12158,9 +12168,11 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
 #carpool .aboutSectionPicture {
   background-image: url("../img/sota.jpg");
   background-size: cover;
-  background-attachment: fixed;
   background-repeat: no-repeat;
+  height: 23em !important;
   height: 316px; }
+  html > body #carpool .aboutSectionPicture {
+    background-attachment: fixed; }
 
 #carpool .aboutSectionPicture .aboutSectionText {
   font-size: 30px;
@@ -12185,12 +12197,13 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   height: 55vh;
   position: relative;
   display: table;
   position: relative;
   width: 100%; }
+  html > body #carpool .banner {
+    background-attachment: fixed; }
   #carpool .banner > .overlay {
     height: 100%;
     display: table-cell;
@@ -12269,6 +12282,12 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   float: left;
   margin-right: 3em;
   background-repeat: no-repeat; }
+
+#carpool img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  max-height: 100%; }
 
 #carpool iframe {
   margin-right: 3em;
@@ -12755,7 +12774,7 @@ blockquote:after {
     #carpool .downArrowContainer {
       display: none; }
     #carpool .topMediaContainer {
-      height: 30vh; }
+      height: 40vh; }
     #carpool .c-58 {
       width: 100%;
       padding-left: 5%;
@@ -12776,12 +12795,13 @@ blockquote:after {
       text-align: center;
       background-size: contain;
       background-repeat: no-repeat;
-      background-attachment: fixed;
-      height: 35vh;
+      height: 50vh;
       position: relative;
       width: 100%;
       display: table;
       background-position-y: 0; }
+      html > body #carpool .banner {
+        background-attachment: fixed; }
       #carpool .banner.aboutTopPicture {
         background-image: url("../img/background_images/about_header.jpg"); }
         #carpool .banner.aboutTopPicture .aboutTopText {
@@ -12799,7 +12819,7 @@ blockquote:after {
           position: static; }
     #carpool .aboutSectionPicture {
       background-image: url("/carpoolagency/carpool/img/sota.jpg");
-      background-attachment: initial;
+      background-attachment: local !important;
       width: 100%;
       background-size: cover; }
     #carpool .caseStudy {
@@ -12887,6 +12907,12 @@ blockquote:after {
       padding: .3em;
       display: block; } }
 @media (max-width: 35em) {
+  #carpool .footerBottomContainer {
+    width: 100%;
+    padding: 90px 0 90px 0;
+    background: #4D4D4D;
+    bottom: 0px;
+    height: 40vh; }
   #carpool #postBody {
     max-width: 95vw;
     line-height: 1.4em;
@@ -12914,7 +12940,7 @@ blockquote:after {
   #carpool .banner {
     color: #FFF;
     text-align: center;
-    background-size: auto 25em;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: initial;
     height: 24vh;
@@ -12930,7 +12956,7 @@ blockquote:after {
   #carpool .banner {
     height: 20em; }
   #carpool .caseStudy {
-    margin-bottom: 3em; }
+    margin-bottom: 6em; }
     #carpool .caseStudy > * {
       width: 100%;
       padding: 0 5%; }
@@ -12941,5 +12967,8 @@ blockquote:after {
       display: inline-block;
       width: 0.2em;
       content: " "; } }
+@media screen and (-ms-high-contrast: active) {
+  #carpool .banner {
+    background-attachment: initial; } }
 
 /*# sourceMappingURL=main.css.map */

@@ -421,13 +421,13 @@ $(function() {
     $(document)
         .on("scroll", function() {
             if ($(document)
-                .scrollTop() > 100) {
-                $(".navContainer")
+                .scrollTop() > $('.bg-lightGreen').position().top) {
+                $(".navContainer, body")
                     .addClass("shrink");
                 $(".logoContainer")
                     .addClass("shrink");
             } else {
-                $(".navContainer")
+                $(".navContainer, body")
                     .removeClass("shrink");
                 $(".logoContainer")
                     .removeClass("shrink");
