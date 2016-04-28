@@ -11335,10 +11335,10 @@ ol {
 
 /* Background colors */
 #carpool .screenreader {
-  display: block;
-  height: 0;
-  overflow: hidden;
-  width: 0; }
+  display: block !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  width: 0 !important; }
 #carpool .background-light {
   background-color: #FFF; }
 
