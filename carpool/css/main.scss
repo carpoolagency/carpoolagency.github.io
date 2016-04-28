@@ -1232,13 +1232,19 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
     float: left;
 }
 
-#carpool .postGrid .postItem {
-    border-width: 1px;
-    border-color: #ccc;
-    border-style: solid;
-    transition: 1s opacity ease-out;
-    -webkit-transition: 1s opacity ease-out;
-    -moz-transition: 1s opacity ease-out;
+#carpool .postGrid {
+    margin: 0 -1%;
+    .postItem {
+        padding: 1%;
+        .border {
+            border-width: 1px;
+            border-color: #ccc;
+            border-style: solid;
+            transition: 1s opacity ease-out;
+            -webkit-transition: 1s opacity ease-out;
+            -moz-transition: 1s opacity ease-out;
+        }
+    }
 }
 
 #carpool .postGrid .postItem .postTitle,
@@ -1857,6 +1863,74 @@ blockquote:after {
     }
 }
 
+@media (max-width: 55em) and (orientation: landscape) {
+    #carpool {
+        #welcome .welcomeHeaderOverlay {
+            position: absolute;
+            bottom: 10px;
+            left: -25px;
+            right: 0;
+            .welcomeTextTitle,
+            .welcomeTextTitle {
+                //color: black;
+            }
+        }
+        .downArrowContainer {
+            display: none;
+        }
+        .topMediaContainer {
+            height: 100vh
+        }
+        .banner {
+            color: #FFF;
+            text-align: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            height: 60vh;
+            position: relative;
+            width: 100%;
+            display: table;
+            background-position-y: 0;
+            &.aboutTopPicture {
+                background-image: url('../img/background_images/about_header.jpg');
+                .aboutTopText {
+                    font-size: 30px;
+                    color: #ffffff;
+                    line-height: 32px;
+                    text-align: center;
+                    padding-top: inital;
+                    text-transform: uppercase;
+                    padding: initial;
+                }
+                .overlay {
+                    height: 100%;
+                    display: table-cell;
+                    vertical-align: middle;
+                    position: static;
+                }
+            }
+        }
+        &.menu-active {
+            .header {
+                .menuContainer {
+                    transition: .3s transform ease-in-out;
+                    transform: translateX(0px);
+                    will-change: transform;
+                    .globalNav {
+                        li {
+                            a {
+                                padding: .3em;
+                                display: block;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
 @media (max-width: 35em) {
     #carpool {
         #postBody {
@@ -1873,16 +1947,14 @@ blockquote:after {
                 max-width: 95vw;
                 width: 100% !important;
                 > img {
-                    position:relative;
+                    position: relative;
                     top: 30px;
                 }
                 > div {
                     text-indent: 25px;
                     max-width: 95vw;
                     width: 100% !important;
-                    >img{
-                        
-                    }
+                    >img {}
                     br {
                         display: inline-block;
                         width: 0.2em;

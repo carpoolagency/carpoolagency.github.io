@@ -12325,13 +12325,17 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   margin-bottom: 13px;
   float: left; }
 
-#carpool .postGrid .postItem {
-  border-width: 1px;
-  border-color: #ccc;
-  border-style: solid;
-  transition: 1s opacity ease-out;
-  -webkit-transition: 1s opacity ease-out;
-  -moz-transition: 1s opacity ease-out; }
+#carpool .postGrid {
+  margin: 0 -1%; }
+  #carpool .postGrid .postItem {
+    padding: 1%; }
+    #carpool .postGrid .postItem .border {
+      border-width: 1px;
+      border-color: #ccc;
+      border-style: solid;
+      transition: 1s opacity ease-out;
+      -webkit-transition: 1s opacity ease-out;
+      -moz-transition: 1s opacity ease-out; }
 
 #carpool .postGrid .postItem .postTitle,
 #carpool .postGrid .postItem .postAuthor,
@@ -12839,6 +12843,49 @@ blockquote:after {
             display: inline-block;
             width: 0.2em;
             content: " "; } }
+@media (max-width: 55em) and (orientation: landscape) {
+  #carpool #welcome .welcomeHeaderOverlay {
+    position: absolute;
+    bottom: 10px;
+    left: -25px;
+    right: 0; }
+  #carpool .downArrowContainer {
+    display: none; }
+  #carpool .topMediaContainer {
+    height: 100vh; }
+  #carpool .banner {
+    color: #FFF;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 60vh;
+    position: relative;
+    width: 100%;
+    display: table;
+    background-position-y: 0; }
+    #carpool .banner.aboutTopPicture {
+      background-image: url("../img/background_images/about_header.jpg"); }
+      #carpool .banner.aboutTopPicture .aboutTopText {
+        font-size: 30px;
+        color: #ffffff;
+        line-height: 32px;
+        text-align: center;
+        padding-top: inital;
+        text-transform: uppercase;
+        padding: initial; }
+      #carpool .banner.aboutTopPicture .overlay {
+        height: 100%;
+        display: table-cell;
+        vertical-align: middle;
+        position: static; }
+  #carpool.menu-active .header .menuContainer {
+    transition: .3s transform ease-in-out;
+    transform: translateX(0px);
+    will-change: transform; }
+    #carpool.menu-active .header .menuContainer .globalNav li a {
+      padding: .3em;
+      display: block; } }
 @media (max-width: 35em) {
   #carpool #postBody {
     max-width: 95vw;

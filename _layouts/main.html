@@ -19,7 +19,8 @@
         if ($('.postGrid').size() > 0) {
             var $grid = $('.postGrid').imagesLoaded(function() {
                 var msnry = new Masonry('.postGrid', {
-                    itemSelector: '.postItem'
+                    itemSelector: '.postItem',
+  percentPosition: true
                 });
                 //to fade in post grid on thoughts page
                 $('.postItem').css('opacity', 1);
