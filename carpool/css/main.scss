@@ -1609,28 +1609,29 @@ blockquote:after {
                 top: 8px;
                 right: 8px;
                 z-index: 10;
-            }
-            .c-hamburger:focus {
-                outline: 0
-            }
-            .c-hamburger span {
-                display: block;
-                position: absolute;
-                top: 24px;
-                left: 1px;
-                right: 1px;
-                height: 5px;
-                background: rgb(255, 255, 255);
-            }
-            .c-hamburger span::after,
-            .c-hamburger span::before {
-                position: absolute;
-                display: block;
-                left: 0;
-                width: 100%;
-                height: 5px;
-                background-color: #fff;
-                content: ""
+                transform: scale(0.85);
+                &:focus {
+                    outline: 0
+                }
+                span {
+                    display: block;
+                    position: absolute;
+                    top: 24px;
+                    left: 1px;
+                    right: 1px;
+                    height: 5px;
+                    background: rgb(255, 255, 255);
+                    &::after,
+                    &::before {
+                        position: absolute;
+                        display: block;
+                        left: 0;
+                        width: 100%;
+                        height: 5px;
+                        background-color: #fff;
+                        content: ""
+                    }
+                }
             }
             .c-hamburger--htla.is-active span::after,
             .c-hamburger--htla.is-active span::before,
@@ -1831,14 +1832,26 @@ blockquote:after {
                 background: white;
             }
             #postBody {
-                line-height: 24px;
-                font-size: 16px;
                 float: left;
-                width: 90%;
+                width: 95%;
                 margin-bottom: 3em;
                 margin-left: auto !important;
                 margin-right: auto;
-                padding: 0 5%;
+                max-width: 95vw;
+                padding: 0 2.5%;
+                > div {
+                    max-width: 95vw;
+                    width: 100% !important;
+                    > div {
+                        max-width: 95vw;
+                        width: 100% !important;
+                        br {
+                            display: inline-block;
+                            width: 0.2em;
+                            content: " ";
+                        }
+                    }
+                }
             }
         }
     }
@@ -1846,6 +1859,38 @@ blockquote:after {
 
 @media (max-width: 35em) {
     #carpool {
+        #postBody {
+            max-width: 95vw;
+            line-height: 1.4em;
+            font-size: 1.2em;
+            float: left;
+            width: 95%;
+            margin-bottom: 3em;
+            margin-left: auto !important;
+            margin-right: auto;
+            padding: 0 2.5%;
+            > div {
+                max-width: 95vw;
+                width: 100% !important;
+                > img {
+                    position:relative;
+                    top: 30px;
+                }
+                > div {
+                    text-indent: 25px;
+                    max-width: 95vw;
+                    width: 100% !important;
+                    >img{
+                        
+                    }
+                    br {
+                        display: inline-block;
+                        width: 0.2em;
+                        content: " ";
+                    }
+                }
+            }
+        }
         .banner {
             color: #FFF;
             text-align: center;
@@ -1883,7 +1928,9 @@ blockquote:after {
                     width: 95%;
                     padding: 2%;
                     br {
-                        display: none;
+                        display: inline-block;
+                        width: 0.2em;
+                        content: " ";
                     }
                 }
             }
