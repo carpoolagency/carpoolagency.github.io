@@ -16,7 +16,7 @@ title: Thoughts
   </div>
   <div class="row bg-lightGreen">
       <div class="welcomeMessage center-margin c-58">
-          We are always thinking about how to make work better. From how we conduct informal conversations to how we publish formal internal content, Carpool is constantly pondering and publishing new strategies and principles to help guide your internal communications.
+          We are always thinking about how to make work better. From how we conduct informal conversations to how we publish formal internal content, Carpool is constantly pondering and publishing new strategies and principles to help guide your internal communications. 
       </div>
   </div>
 
@@ -28,7 +28,7 @@ title: Thoughts
           {% for post in site.posts limit:30 %}
             {% if post.postType != "services" and post.stage != true %}
             <div class="postItem c-18 mr-1 mb-1 p-p-22" style="opacity: 0;">
-              <a href="{{ post.url }}">
+              <a href="{{site.url}}/carpoolagency{{ post.url }}">
                 <img src="{{ post.defaultImage_thumb }}" style="width:100%;"/>
                 <div class="postTitle"><b>{{ post.title }}</b></div>
               </a>
@@ -39,7 +39,7 @@ title: Thoughts
           {% endfor %}
         </div>
     </div>
-    <!-- <div class="archiveLink"><a href="/archive/">ALL POSTS ></a></div> -->
+    <!-- <div class="archiveLink"><a href="{{site.baseurl}}/archive/">ALL POSTS ></a></div> -->
 </section>
 <!-- **
 *  Thoughts ends here

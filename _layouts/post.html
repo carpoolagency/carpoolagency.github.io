@@ -12,7 +12,7 @@ layout: main
 	<div class="authorAndBody">
 		{% if page.author %}
 		<div class="author">
-					<div class="picture"><div class="image" style="background-image: url('/carpoolagency/carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div></div>						
+					<div class="picture"><div class="image" style="background-image: url('{{site.baseurl}}carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div></div>						
 					<div class="name"><div>{{ page.author }}</div></div>						
 			<div class="btnStack">
 				{% if page.twitter %}

@@ -1,7 +1,3 @@
-/*
- * Css From Carpool Framework
- */
-
 @import 'generated';
 @import 'lightbox.min';
 html,
@@ -712,7 +708,7 @@ ol {
 #carpool .header .logoContainer {
     margin: 8px;
     height: 53px;
-    background: url('/carpoolagency/carpool/img/svg_icons/carpool_logo_white.svg');
+    background: url('../img/svg_icons/carpool_logo_white.svg');
     width: 175px;
     background-size: contain;
     margin-left: 14px;
@@ -771,7 +767,7 @@ ol {
 }
 
 #carpool .footerLinksContainer {
-    background: url('/carpoolagency/carpool/img/home_footer.jpg');
+    background: url('../img/home_footer.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -789,8 +785,8 @@ ol {
 }
 
 #carpool .aboutFooterLinksContainer {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpoolagency/carpool/img/9831.jpg');
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpoolagency/carpool/img/9831.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/9831.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/9831.jpg');
     background-size: 100% auto;
     height: 22em;
     color: #FFF;
@@ -841,7 +837,7 @@ ol {
     margin-top: 10px;
     margin-bottom: 0;
     width: 49%;
-    background-image: url('/carpoolagency/carpool/img/svg_icons/down_arrow.svg');
+    background-image: url('../img/svg_icons/down_arrow.svg');
     background-repeat: no-repeat;
     background-position: 96%;
     background-size: 28px 16px;
@@ -991,7 +987,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .footerLogo {
-    background: transparent url('/carpoolagency/carpool/img/svg_icons/carpool_logo_gray.svg') no-repeat;
+    background: transparent url('../img/svg_icons/carpool_logo_gray.svg') no-repeat;
     background-size: contain;
     width: 280px;
     height: 85px;
@@ -1037,7 +1033,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .aboutSectionPicture {
-    background-image: url('/carpoolagency/carpool/img/sota.jpg');
+    background-image: url('../img/sota.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -1053,7 +1049,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .aboutTopPicture {
-    background-image: url('/carpoolagency/carpool/img/background_images/about_header.jpg');
+    background-image: url('../img/background_images/about_header.jpg');
     /*    .aboutTopText {
         font-size: 30px;
         color: #ffffff;
@@ -1094,7 +1090,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .workTopPicture {
-    background-image: url('/carpoolagency/carpool/img/development.jpg');
+    background-image: url('../img/development.jpg');
 }
 
 #carpool .workTopPicture .workTopText {
@@ -1108,7 +1104,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .thoughtsTopPicture {
-    background-image: url('/carpoolagency/carpool/img/background_images/thoughts_header.jpg');
+    background-image: url('../img/background_images/thoughts_header.jpg');
 }
 
 #carpool .thoughtsTopPicture h1 {
@@ -1117,7 +1113,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .homeTopPicture {
-    background: url('/carpoolagency/carpool/img/background_images/carpool_header_resize.jpg');
+    background: url('../img/background_images/carpool_header_resize.jpg');
     background-size: cover;
     height: inherit;
     width: 100%;
@@ -1160,7 +1156,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .pdfIcon2 {
-    background: url('/carpoolagency/carpool/img/CaseStudy_2.png');
+    background: url('../img/CaseStudy_2.png');
     width: 100%;
     height: 305px;
     background-size: contain;
@@ -1725,7 +1721,6 @@ blockquote:after {
                     will-change: transform;
                     .globalNav {
                         li {
-
                             a {
                                 padding: 1.1em;
                                 display: block;
@@ -1769,7 +1764,7 @@ blockquote:after {
             -webkit-box-flex: 1;
             flex: 1 0 5em;
         }
-        /*         #about,
+        /*         #about, 
         #thoughts { */
         .banner {
             color: #FFF;
@@ -1783,7 +1778,7 @@ blockquote:after {
             display: table;
             background-position-y: 0;
             &.aboutTopPicture {
-                background-image: url('/carpoolagency/carpool/img/background_images/about_header.jpg');
+                background-image: url('../img/background_images/about_header.jpg');
                 .aboutTopText {
                     font-size: 30px;
                     color: #ffffff;
@@ -1839,8 +1834,11 @@ blockquote:after {
                 line-height: 24px;
                 font-size: 16px;
                 float: left;
-                width: 72%;
+                width: 90%;
                 margin-bottom: 3em;
+                margin-left: auto !important;
+                margin-right: auto;
+                padding: 0 5%;
             }
         }
     }
@@ -1848,6 +1846,21 @@ blockquote:after {
 
 @media (max-width: 35em) {
     #carpool {
+        .banner {
+            color: #FFF;
+            text-align: center;
+            background-size: auto 25em;
+            background-repeat: no-repeat;
+            background-attachment: initial;
+            height: 24vh;
+            position: relative;
+            width: 100%;
+            display: table;
+            background-position-y: 0;
+        }
+        .topMediaContainer {
+            height: 50vh
+        }
         .sectionDetailContainer {
             .sectionDetailImage {
                 padding: 5%;
@@ -1858,10 +1871,22 @@ blockquote:after {
             height: 20em;
         }
         .caseStudy {
-            margin-bottom:3em;
+            margin-bottom: 3em;
             > * {
-                    width: 100%;
-                    padding: 0 5%;
-                }}
+                width: 100%;
+                padding: 0 5%;
+            }
+        }
+        #welcome {
+            .welcomeHeaderOverlay {
+                .welcomeWrapper {
+                    width: 95%;
+                    padding: 2%;
+                    br {
+                        display: none;
+                    }
+                }
+            }
+        }
     }
 }

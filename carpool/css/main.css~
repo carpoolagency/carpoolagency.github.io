@@ -2142,7 +2142,7 @@ body {
 }
 
 #carpool .header .logoContainer .logo {
-    background: transparent url('/carpoolagency/carpool/img/svg_icons/carpool_logo_white.svg') no-repeat scroll 0% 0%;
+    background: transparent url('{{site.baseurl}}carpool/img/svg_icons/carpool_logo_white.svg') no-repeat scroll 0% 0%;
     display: inline-block;
     text-indent: -9999px;
     width: 175px;
@@ -2268,7 +2268,7 @@ body {
 }
 
 #carpool .header .dropdownContainer .navigationWrapper .logoWhite {
-    background: transparent url('/carpoolagency/carpool/img/svg_icons/carpool_logo_white.svg') no-repeat;
+    background: transparent url('{{site.baseurl}}carpool/img/svg_icons/carpool_logo_white.svg') no-repeat;
     width: 168px;
     height: 50px;
     background-size: contain;
@@ -2402,7 +2402,7 @@ body {
     margin-top: 10px;
     margin-bottom: 0;
     width: 49%;
-    background-image: url('/carpoolagency/carpool/img/svg_icons/down_arrow.svg');
+    background-image: url('{{site.baseurl}}carpool/img/svg_icons/down_arrow.svg');
     background-repeat: no-repeat;
     background-position: 96%;
     background-size: 28px 16px;
@@ -2621,7 +2621,7 @@ body {
 }
 
 #carpool .footerLogo {
-    background: transparent url('/carpoolagency/carpool/img/svg_icons/carpool_logo_white.svg') no-repeat;
+    background: transparent url('{{site.baseurl}}carpool/img/svg_icons/carpool_logo_white.svg') no-repeat;
     background-size: contain;
     width: 280px;
     height: 85px;
