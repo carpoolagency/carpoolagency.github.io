@@ -1167,7 +1167,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .pdfIcon {
-    background: url("{{site.baseurl}}carpool/img/CaseStudy_1.png");
+    background: url("/carpool/img/CaseStudy_1.png");
     width: 100%;
     height: 305px;
     background-size: contain;
@@ -1185,7 +1185,14 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
     margin-right: 3em;
     background-repeat: no-repeat;
 }
-
+#carpool .pdfIcon3 {
+    background: url('/carpool/img/CaseStudy_3.png');
+    width: 380px;
+    height: 242px;
+    background-size: contain;
+    float: left;
+    margin-right: 3em;
+}
 #carpool img {
     max-width: 100%;
     height: auto;
@@ -1834,7 +1841,7 @@ blockquote:after {
             }
         }
         .aboutSectionPicture {
-            background-image: url("{{site.baseurl}}carpool/img/sota.jpg");
+            background-image: url("/carpool/img/sota.jpg");
             background-attachment: local !important;
             width: 100%;
             background-size: cover;

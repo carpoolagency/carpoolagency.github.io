@@ -12266,7 +12266,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   font-size: 16px; }
 
 #carpool .pdfIcon {
-  background: url("/carpool/img/CaseStudy_1.png");
+  background: url("{{site.baseurl}}carpool/img/CaseStudy_1.png");
   width: 100%;
   height: 305px;
   background-size: contain;
@@ -12275,6 +12275,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   background-repeat: no-repeat; }
 
 #carpool .pdfIcon2 {
+<<<<<<< HEAD
   background: url("../img/CaseStudy_2.png");
   width: 100%;
   height: 305px;
@@ -12282,14 +12283,6 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
   float: left;
   margin-right: 3em;
   background-repeat: no-repeat; }
-
-#carpool .pdfIcon3 {
-  background: url("/carpool/img/CaseStudy_3.png");
-  width: 380px;
-  height: 242px;
-  background-size: contain;
-  float: left;
-  margin-right: 3em; }
 
 #carpool img {
   max-width: 100%;
@@ -12300,6 +12293,29 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/ }
 #carpool iframe {
   margin-right: 3em;
   margin-bottom: 3em; }
+=======
+	background: url('/carpool/img/CaseStudy_2.png');
+	width: 379px;
+	height: 255px;
+	background-size: contain;
+	float: left;
+	margin-right: 3em;
+}
+
+#carpool .pdfIcon3 {
+	background: url('/carpool/img/CaseStudy_3.png');
+	width: 380px;
+	height: 242px;
+	background-size: contain;
+	float: left;
+	margin-right: 3em;
+}
+
+#carpool #thoughts iframe {
+	margin-right: 3em;
+	margin-bottom: 3em;
+}
+>>>>>>> 16457f3c035fe0b611bf6a7d3827948ea9fbfbcd
 
 .featherlight-content {
   width: 70vh;
@@ -12826,7 +12842,7 @@ blockquote:after {
           vertical-align: middle;
           position: static; }
     #carpool .aboutSectionPicture {
-      background-image: url("/carpool/img/sota.jpg");
+      background-image: url("{{site.baseurl}}carpool/img/sota.jpg");
       background-attachment: local !important;
       width: 100%;
       background-size: cover; }
