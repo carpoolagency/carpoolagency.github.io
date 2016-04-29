@@ -1167,7 +1167,7 @@ box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
 #carpool .pdfIcon {
-    background: url("/carpoolagency/carpool/img/CaseStudy_1.png");
+    background: url("{{site.baseurl}}carpool/img/CaseStudy_1.png");
     width: 100%;
     height: 305px;
     background-size: contain;
@@ -1834,7 +1834,7 @@ blockquote:after {
             }
         }
         .aboutSectionPicture {
-            background-image: url("/carpoolagency/carpool/img/sota.jpg");
+            background-image: url("{{site.baseurl}}carpool/img/sota.jpg");
             background-attachment: local !important;
             width: 100%;
             background-size: cover;

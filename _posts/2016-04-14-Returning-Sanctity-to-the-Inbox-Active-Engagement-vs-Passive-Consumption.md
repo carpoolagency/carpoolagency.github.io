@@ -3,8 +3,8 @@ layout: post
 title: Returning Sanctity to the Inbox&#58;  Active Engagement vs. Passive Consumption
 author: Jarom Reid
 authorImage: jarom.jpg
-defaultImage: /carpoolagency/carpool/img/posts_images/ActivePassiveEngagement.jpg
-defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_ActivePassiveEngagement.jpg
+defaultImage: /carpool/img/posts_images/ActivePassiveEngagement.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_ActivePassiveEngagement.jpg
 ---
 Not much has changed about email.
 

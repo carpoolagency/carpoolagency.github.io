@@ -28,7 +28,7 @@ title: Thoughts
             {% for post in site.posts limit:30 %} {% if post.postType != "services" and post.stage != true %}
             <div class="postItem p-8 p-t-12 float-left p-p-24" style="opacity: 0;">
                 <div class="border">
-                    <a href="{{site.url}}/carpoolagency{{ post.url }}">
+                    <a href="{{site.url}}{{base.url}}{{ post.url }}">
                         <img src="{{ post.defaultImage_thumb }}" style="width:100%;" />
                         <div class="postTitle"><b>{{ post.title }}</b></div>
                     </a>

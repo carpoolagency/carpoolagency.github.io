@@ -1,5 +1,5 @@
 kelexcerpt_separator: "<!--more-->"
-permalink:  "articles/:title.html"
-baseurl: "/carpoolagency/"
+permalink:  "/articles/:title.html"
+baseurl: ""
 collections:
   - people

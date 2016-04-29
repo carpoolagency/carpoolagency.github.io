@@ -3,8 +3,8 @@ layout: post
 title: How to Leverage the Butterfly Effect
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpoolagency/carpool/img/posts_images/butterfly.jpg
-defaultImage_thumb: /carpoolagency/carpool/img/posts_images/thumb_butterfly.jpg
+defaultImage: /carpool/img/posts_images/butterfly.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_butterfly.jpg
 ---
 To understand the [information flow](http://carpoolagency.com/articles/Effective-Communication-and-the-Information-Flow.html) of a complex business environment, look no further than the mighty butterfly. And to do that, we should consult Dr. Ian Malcolm.
 
