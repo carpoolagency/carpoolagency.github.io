@@ -1,45 +1,39 @@
 ---
-layout: main
+layout: main 
 ---
-
 <div id="postArticle" class="carpool-page">
-	<div class="articleImage defaultImage" style="background-image: url('{{ page.defaultImage }}');">
-		<div class="postTitle green">
-			{{ page.title }}
-		</div>
-	</div>
-
-	<div class="authorAndBody">
-		{% if page.author %}
-		<div class="author">
-					<div class="picture"><div class="image" style="background-image: url('/carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div></div>						
-					<div class="name"><div>{{ page.author }}</div></div>						
-			<div class="btnStack">
-				{% if page.twitter %}
-				<a class="btnTwitter" href="{{page.twitter}}" target="_blank"><img src="/carpool/img/btn/twitter_icon.png"></a>
-				{% endif %}
-				{% if page.linkedin %}
-				<a class="btnLinkedIn" href="{{page.linkedin}}" target="_blank"><img src="/carpool/img/btn/linkedin_icon.png"></a>
-				{% endif %}
-				{% if page.facebook %}
-				<a class="btnFacebook" href="{{page.facebook}}" target="_blank"><img src="/carpool/img/btn/facebook_icon.png"></a>
-				{% endif %}
-			</div>
-		</div>
-		{% endif %}
-
-		{% if page.noAuthor %}
-		<div id="postBody" style="margin-left: -115px;">
-			<p>{{ content }}</p>
-		</div>
-		{% endif %}
-
-		{% if page.author %}
-		<div id="postBody">
-			<p>{{ content }}</p>
-		</div>
-		{% endif %}
-
-	</div>
-
+    <div class="articleImage defaultImage" style="background-image: url('{{ page.defaultImage }}');">
+        <div class="postTitle green">
+            {{ page.title }}
+        </div>
+    </div>
+    <div class="authorAndBody">
+        {% if page.author %}
+        <div class="author">
+            <div class="picture">
+                <div class="image" style="background-image: url('/carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div>
+            </div>
+            <div class="name">
+                <div>{{ page.author }}</div>
+            </div>
+            <div class="btnStack">
+                {% if page.twitter %}
+                <a class="btnTwitter" href="{{page.twitter}}" target="_blank"><img src="/carpool/img/btn/twitter_icon.png"></a>
+                {% endif %} {% if page.linkedin %}
+                <a class="btnLinkedIn" href="{{page.linkedin}}" target="_blank"><img src="/carpool/img/btn/linkedin_icon.png"></a>
+                {% endif %} {% if page.facebook %}
+                <a class="btnFacebook" href="{{page.facebook}}" target="_blank"><img src="/carpool/img/btn/facebook_icon.png"></a>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %} {% if page.noAuthor %}
+        <div id="postBody" style="margin-left: -115px;">
+            <p>{{ content }}</p>
+        </div>
+        {% endif %} {% if page.author %}
+        <div id="postBody">
+            <p>{{ content }}</p>
+        </div>
+        {% endif %}
+    </div>
 </div>
