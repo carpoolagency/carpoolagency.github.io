@@ -6,40 +6,40 @@ title: Thoughts
 <!-- **
 *  Thoughts starts here
 * -->
-<section id="thoughts" class="carpool-page">
-    <div class="thoughtsTopPicture banner">
-        <div class="overlay">
-            <div class="row center-margin text-uppercase">
-                Gain Insights Into Internal Communications
-            </div>
-        </div>
+<section id="thoughts" class="carpool-page">  
+  <div class="thoughtsTopPicture">
+    <div class="overlay">
+      <div class="row center-margin text-uppercase">
+        Gain Insights Into Internal Communications
+      </div>
     </div>
-    <div class="row bg-lightGreen">
-        <div class="welcomeMessage center-margin c-58">
-            We are always thinking about how to make work better. From how we conduct informal conversations to how we publish formal internal content, Carpool is constantly pondering and publishing new strategies and principles to help guide your internal communications.
-        </div>
-    </div>
+  </div>
+  <div class="row bg-lightGreen">
+      <div class="welcomeMessage center-margin c-58">
+          We are always thinking about how to make work better. From how we conduct informal conversations to how we publish formal internal content, Carpool is constantly pondering and publishing new strategies and principles to help guide your internal communications.
+      </div>
+  </div>
+
     <div class="row center-margin c-58 pt-5 pb-3 overflow-hidden">
-        <div class="sectionTitle mb-1">
+        <div class="sectionTitle mb-3">
             Some of Our Thinking
         </div>
         <div class="postGrid">
-            <div class="grid-sizer"></div>
-            {% for post in site.posts limit:30 %} {% if post.postType != "services" and post.stage != true %}
-            <div class="postItem p-8 p-t-12 float-left p-p-24" style="opacity: 0;">
-                <div class="border">
-                    <a href="{{site.url}}{{base.url}}{{ post.url }}">
-                        <img src="{{ post.defaultImage_thumb }}" style="width:100%;" />
-                        <div class="postTitle"><b>{{ post.title }}</b></div>
-                    </a>
-                    <div class="postAuthor"><b>By {{ post.author }}</b></div>
-                    <div class="postExcerpt">{{ post.excerpt }}</div>
-                </div>
+          {% for post in site.posts limit:30 %}
+            {% if post.postType != "services" and post.stage != true %}
+            <div class="postItem c-18 mr-1 mb-1" style="opacity: 0;">
+              <a href="{{ post.url }}">
+                <img src="{{ post.defaultImage_thumb }}" style="width:100%;"/>
+                <div class="postTitle"><b>{{ post.title }}</b></div>
+              </a>
+                <div class="postAuthor"><b>By {{ post.author }}</b></div>
+                <div class="postExcerpt">{{ post.excerpt }}</div>
             </div>
-            {% endif %} {% endfor %}
+            {% endif %}
+          {% endfor %}
         </div>
     </div>
-    <!-- <div class="archiveLink"><a href="{{site.baseurl}}/archive/">ALL POSTS ></a></div> -->
+    <!-- <div class="archiveLink"><a href="/archive/">ALL POSTS ></a></div> -->
 </section>
 <!-- **
 *  Thoughts ends here
