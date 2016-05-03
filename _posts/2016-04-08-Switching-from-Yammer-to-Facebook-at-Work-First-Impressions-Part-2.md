@@ -5,6 +5,7 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/FacebookatWork2.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_FacebookatWork2.jpg
+stage: true
 ---
 In this, the final piece of our series on Facebook at Work (FB@W) adoption at [Carpool](http://carpoolagency.com/), we are happy to bring you impressions from Account Lead Katie Stout, Account Manager Cameron Masters, and Project Manager Kylie Looper.
 <!--more-->
