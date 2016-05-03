@@ -117,6 +117,15 @@ a {
 	color: #FFF; 
 }
 
+img {
+	width: 100%;
+	height: auto;
+}
+
+p {
+	margin: 1em 0;
+}
+
 /* Background colors */
 
 .background-light {
@@ -461,7 +470,6 @@ textarea:-ms-input-placeholder {
 .sectionTitle {
 	font-size: 48px;
 	color: #A4A4A4;
-	line-height: 25px;
 }
 
 .sectionText {
