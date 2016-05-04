@@ -2,23 +2,25 @@
 *  Header starts here
 * -->
 <header class="header">
-    <div class="navContainer">
-        <div class="row relative">
-            <a href="/">
-                <div class="logoContainer float-left"></div>
-            </a>
-            <div class="menuContainer float-right">
-                <nav class="globalNav">
-                    <ul>
-                        <li><a href="/" class="pageNavLink {% if page.title == 'Home' %}active{% endif %}">Home</a></li>
-                        <li><a href="/#approach" class="pageNavLink">Approach</a></li>
-                        <li><a href="/about" class="pageNavLink {% if page.title == 'About' %}active{% endif %}">About</a></li>
-                        <li><a href="/work" class="pageNavLink {% if page.title == 'Work' %}active{% endif %}">Work</a></li>
-                        <li><a href="/thoughts" class="pageNavLink {% if page.title == 'Thoughts' %}active{% endif %}">Thoughts</a></li>
-                        <li><a href="mailto:info@carpoolagency.com" id="connect">Connect</a></li>
-                    </ul>
-                </nav>
-            </div>
+    <div class="navContainer"></div>
+    <div class="row relative">
+        <a href="/">
+            <div class="logoContainer float-left"></div>
+        </a>
+        <button class="c-hamburger c-hamburger--htx">
+            <span>toggle menu</span>
+        </button>
+        <div class="menuContainer float-right">
+            <nav class="globalNav">
+                <ul>
+                    <li><a href="/" class="pageNavLink {% if page.title == 'Home' %}active{% endif %}">Home</a></li>
+                    <li><a href="/#approach" class="pageNavLink">Approach</a></li>
+                    <li><a href="/about" class="pageNavLink {% if page.title == 'About' %}active{% endif %}">About</a></li>
+                    <li><a href="/work" class="pageNavLink {% if page.title == 'Work' %}active{% endif %}">Work</a></li>
+                    <li><a href="/thoughts" class="pageNavLink {% if page.title == 'Thoughts' %}active{% endif %}">Thoughts</a></li>
+                    <li><a href="mailto:info@carpoolagency.com" id="connect">Connect</a></li>
+                </ul>
+            </nav>
         </div>
     </div>
 </header>
