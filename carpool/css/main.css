@@ -322,7 +322,6 @@ textarea:-ms-input-placeholder {
 	color: #e0e0e0;
 	width: 490px;
 	padding: 18px;
-	//  background-color: rgba(216,216,216,0.65);
 }
 
 #welcome .welcomeHeaderOverlay .welcomeText {
@@ -534,7 +533,7 @@ textarea:-ms-input-placeholder {
 
 #thoughts .postDefaultImage {
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 210px;
@@ -589,7 +588,7 @@ textarea:-ms-input-placeholder {
 	width: 182px;
 	height: 182px;
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 182px;
@@ -669,7 +668,6 @@ textarea:-ms-input-placeholder {
 	line-height: 24px;
 	font-size: 16px;
 	float: left;
-	width: 650px;
 	margin-bottom: 3em;
 }
 
@@ -688,8 +686,6 @@ textarea:-ms-input-placeholder {
 	left: 50%;
 	line-height: 70px;
 	overflow: hidden;
-	display: table;
-	margin: 0 auto;
 	margin-left: -415px;
 	position: absolute;
 	padding: 29px;
@@ -702,7 +698,7 @@ textarea:-ms-input-placeholder {
 	width: 100%;
 	height: 560px;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-size: cover;
 	top: 0;
 	left: 0;
@@ -713,7 +709,7 @@ textarea:-ms-input-placeholder {
 	width: 100px;
 	height: 100px;
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 100px;
@@ -737,9 +733,8 @@ textarea:-ms-input-placeholder {
 }
 
 #postArticle .author {
-	width: 100px;
 	float: left;
-	margin: 25px 80px 0 -80px;
+	margin: 25px 25px 0 -25px;
 }
 
 #postArticle .author .picture {
@@ -750,7 +745,6 @@ textarea:-ms-input-placeholder {
 #postArticle .author .name {
 	margin-top: 1em;
 	font-weight: bold;
-	width: 50px;
 }
 
 #postArticle .btnTwitter,
@@ -762,7 +756,6 @@ textarea:-ms-input-placeholder {
 
 #postArticle .authorAndBody {
 	display: table;
-	margin: auto;
 }
 
 
@@ -1651,6 +1644,9 @@ footer.footer .row.c-58 .iconLink img {
 	display: block;
 }
 
+/***
+Responsive
+***/
 
 @media (max-width: 1400px) {
 	.topMediaContainer {
@@ -1668,12 +1664,42 @@ footer.footer .row.c-58 .iconLink img {
 	.topMediaContainer {
 		height: 550px;
 	}
+	#postArticle .author {
+		width: 100%;
+		float: none;
+		margin-left: 0;
+		clear: both;
+	}
+	#postArticle .author .picture {
+		float: left;
+		margin-right: 2em;
+	}
+	#postArticle .btnStack {
+		width: 100%;
+	}
+	#postArticle .btnTwitter,
+	#postArticle .btnLinkedIn,
+	#postArticle .btnFacebook {
+		margin-top: 1em;
+	}
+	#postArticle .btnTwitter img,
+	#postArticle .btnLinkedIn img,
+	#postArticle .btnFacebook img{
+		height: 1.5em;
+		width: auto;
+	}
 }
 
 @media (max-width: 850px) {
 	.topMediaContainer {
 		height: 500px;
 	}
+	#postArticle .postTitle {
+		left: 0;
+		margin-left: 0;
+		width: 100%;
+	}
+	.c-43,
 	.c-58 {
 		width: 95%;
 	}
