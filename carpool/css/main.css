@@ -850,6 +850,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footerLinksContainer {
+	position: relative;
 	background: url('/carpool/img/home_footer.jpg');
 	background-size: cover;
 	background-position: 50% 50%;
@@ -1305,8 +1306,11 @@ div.top-neg-1:after {
 
 #welcome .overlay {
 	background: rgba(0, 0, 0, 0.3);
-	width: 100vw;
-	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
 }
 
 .caseStudyGreenBar {
@@ -1842,4 +1846,14 @@ Responsive
 	.c-58 {
 		width: 95%;
 	}
+
+	.postGridContainer {
+		width: 560px;
+	}
+}
+
+@media (max-width: 560px) {
+	.postGridContainer {
+		width: 285px;
+	}	
 }
