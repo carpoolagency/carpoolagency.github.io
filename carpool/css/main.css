@@ -16,66 +16,66 @@ body {
 	font-weight: 400;
 }
 
-#carpool html,
-#carpool body,
-#carpool div,
-#carpool span,
-#carpool object,
-#carpool iframe,
-#carpool p,
-#carpool blockquote,
-#carpool pre,
-#carpool abbr,
-#carpool address,
-#carpool cite,
-#carpool code,
-#carpool del,
-#carpool dfn,
-#carpool em,
-#carpool img,
-#carpool ins,
-#carpool kbd,
-#carpool q,
-#carpool samp,
-#carpool small,
-#carpool strong,
-#carpool sub,
-#carpool sup,
-#carpool var,
-#carpool b,
-#carpool i,
-#carpool dl,
-#carpool dt,
-#carpool dd,
-#carpool fieldset,
-#carpool form,
-#carpool label,
-#carpool legend,
-#carpool table,
-#carpool caption,
-#carpool tbody,
-#carpool tfoot,
-#carpool thead,
-#carpool tr,
-#carpool th,
-#carpool td,
-#carpool article,
-#carpool aside,
-#carpool canvas,
-#carpool details,
-#carpool figcaption,
-#carpool figure,
-#carpool footer,
-#carpool header,
-#carpool hgroup,
-#carpool menu,
-#carpool nav,
-#carpool section,
-#carpool summary,
-#carpool time,
-#carpool mark,
-#carpool audio,
-#carpool video {
+html,
+body,
+div,
+span,
+object,
+iframe,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -84,26 +84,26 @@ body {
 	background: rgba(255, 255, 255, 0);
 }
 
-#carpool ul,
+ul,
 ol {
 	margin: 0;
 	padding: 0;
 }
 
-#carpool li {
+li {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-#carpool table {
+table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
 
-#carpool *,
-#carpool *:before,
-#carpool *:after {
+*,
+*:before,
+*:after {
 	/* Chrome 9-, Safari 5-, iOS 4.2-, Android 3-, Blackberry 7- */
 	-webkit-box-sizing: border-box;
 	/* Firefox (desktop or Android) 28- */
@@ -112,90 +112,103 @@ ol {
 	box-sizing: border-box;
 }
 
+a { 
+	text-decoration: none; 
+	color: #FFF; 
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+p {
+	margin: 1em 0;
+}
 
 /* Background colors */
 
-#carpool .background-light {
+.background-light {
 	background-color: #FFF;
 }
 
-#carpool .bg-darkGreen {
+.bg-darkGreen {
 	background: #309600;
 }
 
-#carpool .bg-green {
+.bg-green {
 	background: #68bc47;
 }
 
-#carpool .bg-lightGreen {
+.bg-lightGreen {
 	background: #68bc47;
 }
 
-#carpool .bg-yellow {
+.bg-yellow {
 	background: #f9ec31;
 }
 
 
 /* Color */
 
-#carpool .green {
+.green {
 	color: #68bc47;
 }
 
-#carpool .lightGreen {
+.lightGreen {
 	color: #a2e03f;
 }
 
-#carpool .darkGreen {
+.darkGreen {
 	color: #309600;
 }
 
-#carpool .yellow {
+.yellow {
 	color: #f9ec31;
 }
 
-#carpool .gray {
+.gray {
 	color: #999999;
 }
 
-#carpool .pageNavLink.active {
+.pageNavLink.active {
 	font-weight: 700;
 }
 
-#carpool .carpool-page {
+.carpool-page {
 	overflow: hidden;
 	position: relative;
 	z-index: 5;
 	background-color: #FFF;
 }
 
-#carpool .topMediaContainer {
+.topMediaContainer {
 	width: 100%;
 	height: 100vh;
 	overflow: hidden;
 }
 
-#carpool .innerContainer {
+.innerContainer {
 	position: relative;
 	height: 100vh;
 }
 
-#carpool .relative {
+.relative {
 	position: relative;
 }
 
-#carpool video {
+video {
 	display: block;
 }
 
-#carpool input::-webkit-input-placeholder {
+input::-webkit-input-placeholder {
 	color: #999;
 	font-size: 20px;
 	font-weight: 400;
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool input:-moz-placeholder {
+input:-moz-placeholder {
 	/* Firefox 18- */
 	color: #999;
 	font-size: 20px;
@@ -203,7 +216,7 @@ ol {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool input::-moz-placeholder {
+input::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #999;
 	font-size: 20px;
@@ -211,21 +224,21 @@ ol {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool input:-ms-input-placeholder {
+input:-ms-input-placeholder {
 	color: #999;
 	font-size: 20px;
 	font-weight: 400;
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool textarea::-webkit-input-placeholder {
+textarea::-webkit-input-placeholder {
 	color: #999;
 	font-size: 20px;
 	font-weight: 400;
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool textarea:-moz-placeholder {
+textarea:-moz-placeholder {
 	/* Firefox 18- */
 	color: #999;
 	font-size: 20px;
@@ -233,7 +246,7 @@ ol {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool textarea::-moz-placeholder {
+textarea::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #999;
 	font-size: 20px;
@@ -241,21 +254,21 @@ ol {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool textarea:-ms-input-placeholder {
+textarea:-ms-input-placeholder {
 	color: #999;
 	font-size: 20px;
 	font-weight: 400;
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 }
 
-#carpool #welcome .welcomeTextTitle {
+#welcome .welcomeTextTitle {
 	font-size: 30px;
 	line-height: 32px;
 	text-align: left;
 	text-transform: uppercase;
 }
 
-#carpool #welcome .welcomeTextRest {
+#welcome .welcomeTextRest {
 	width: 100%;
 	font-size: 14px;
 	line-height: 20px;
@@ -263,7 +276,7 @@ ol {
 	margin-top: 10px;
 }
 
-#carpool .bgMedia {
+.bgMedia {
 	width: 100%;
 	height: 100vh;
 	min-height: 800px;
@@ -274,7 +287,7 @@ ol {
 	background-repeat: no-repeat;
 }
 
-#carpool #welcome .topMediaContainer video {
+#welcome .topMediaContainer video {
 	display: block;
 	/* object-fit: fill; */
 	min-height: 100%;
@@ -286,7 +299,7 @@ ol {
 	transform: translate3d(-50%, -50%, 0);
 }
 
-#carpool #welcome .welcomeVideo-darkCover {
+#welcome .welcomeVideo-darkCover {
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -298,21 +311,20 @@ ol {
 	opacity: .30;
 }
 
-#carpool #welcome .welcomeHeaderOverlay {
+#welcome .welcomeHeaderOverlay {
 	position: absolute;
 	bottom: 95px;
 	left: -25px;
 	right: 0;
 }
 
-#carpool #welcome .welcomeHeaderOverlay .welcomeWrapper {
+#welcome .welcomeHeaderOverlay .welcomeWrapper {
 	color: #e0e0e0;
 	width: 490px;
 	padding: 18px;
-	//  background-color: rgba(216,216,216,0.65);
 }
 
-#carpool #welcome .welcomeHeaderOverlay .welcomeText {
+#welcome .welcomeHeaderOverlay .welcomeText {
 	color: #FFF;
 	font-size: 16px;
 	line-height: 22px;
@@ -320,42 +332,42 @@ ol {
 	text-align: center;
 }
 
-#carpool #welcome .welcomeHeaderOverlay .welcomeMenu a {
+#welcome .welcomeHeaderOverlay .welcomeMenu a {
 	text-decoration: none;
 	color: #000;
 	font-size: 16px;
 }
 
-#carpool #welcome .welcomeHeaderOverlay .welcomeMenu li {
+#welcome .welcomeHeaderOverlay .welcomeMenu li {
 	display: inline;
 	margin-right: 21px;
 	list-style: none;
 }
 
-#carpool #welcome .welcomeHeaderOverlay .welcomeMenu li:last-child {
+#welcome .welcomeHeaderOverlay .welcomeMenu li:last-child {
 	margin-right: 0;
 }
 
-#carpool .video-overlay {
+.video-overlay {
 	position: absolute;
 	left: 0;
 	right: 0;
 	top: 280px;
 }
 
-#carpool #thoughts .video-overlay {
+#thoughts .video-overlay {
 	position: absolute;
 	left: 0;
 	right: 0;
 	top: 224px;
 }
 
-#carpool .video-overlay .wrapper {
+.video-overlay .wrapper {
 	padding: 42px 28px 49px 28px;
 	position: relative;
 }
 
-#carpool .video-overlay .wrapper .transparentBg {
+.video-overlay .wrapper .transparentBg {
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -367,80 +379,85 @@ ol {
 	opacity: .70;
 }
 
-#carpool .video-overlay .overlayTitle {
+.video-overlay .overlayTitle {
 	font-size: 56px;
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 	color: #FFF;
 	margin-bottom: 15px;
 }
 
-#carpool .video-overlay .overlayText {
+.video-overlay .overlayText {
 	font-size: 16px;
 	line-height: 24px;
 	color: #FFF;
 }
 
-#carpool .video-overlay .overlayAuthor {
+.video-overlay .overlayAuthor {
 	font-size: 16px;
 	color: #999999;
 	margin-bottom: 15px;
 }
 
-#carpool .video-overlay .overlayReadMore {
+.video-overlay .overlayReadMore {
 	font-size: 16px;
 	color: #67bc46;
 	display: block;
 	margin-top: 15px;
 }
 
-#carpool .sectionDetailContainer {
+.sectionDetailContainer {
 	overflow: hidden;
 }
 
-#carpool .sectionDetailContainer .sectionDetail {
+.sectionDetailContainer .sectionDetail {
 	overflow: hidden;
 }
 
-#carpool .sectionDetailContainer .sectionDetailImage {
+.sectionDetailContainer .sectionDetailImage {
 	padding: 0;
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	margin-bottom: 2em;
+	margin-top: 2em;
+	text-align: center;
 }
 
-#carpool .sectionDetailContainer .animationTextHeader {
+.sectionDetailContainer .sectionDetailImage img{
+	width: 100%;
+	height: 100%;
+}
+
+.sectionDetailContainer .animationTextHeader {
 	font-size: 40px;
-	color: #A4A4A4;
-	line-height: 28px;
-	margin-bottom: 39px;
+	margin-bottom: 1em;
 }
 
-#carpool .sectionDetailContainer .animationTextContent {
+.sectionDetailContainer .animationTextHeader a {
+	color: #A4A4A4;
+}
+
+.sectionDetailContainer .animationTextContent {
 	font-size: 16px;
 	color: #000;
 	line-height: 24px;
 }
 
-#carpool .sectionDetailContainer .animationTextContent a {
+.sectionDetailContainer .animationTextContent a {
 	color: #67bc46;
 }
 
-#carpool .downArrowContainer {
+.downArrowContainer {
 	position: absolute;
 	left: 0;
 	right: 0;
 	bottom: 10px;
 }
 
-#carpool .downArrowContainer .downArrow {
+.downArrowContainer .downArrow {
 	display: block;
 	margin: 0 auto;
 	width: 42px;
 	cursor: pointer;
 }
 
-#carpool .downArrowContainer .downArrowText {
+.downArrowContainer .downArrowText {
 	display: block;
 	text-align: center;
 	color: #FFF;
@@ -448,106 +465,105 @@ ol {
 	cursor: pointer;
 }
 
-#carpool .sectionTitle {
+.sectionTitle {
 	font-size: 48px;
 	color: #A4A4A4;
-	line-height: 25px;
 }
 
-#carpool .sectionText {
+.sectionText {
 	font-size: 16px;
 	color: #000;
 	line-height: 28px;
 }
 
-#carpool .animationContainer {
+.animationContainer {
 	float: left;
 }
 
-#carpool .animationContainer .animationVideoContainer .animationVideo {
+.animationContainer .animationVideoContainer .animationVideo {
 	max-width: 100%;
 }
 
-#carpool .animationContainer .animationTextHeader {
+.animationContainer .animationTextHeader {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 	font-size: 40px;
 	color: #67bc46;
 	margin-bottom: 10px;
 }
 
-#carpool .animationContainer .animationTextContent {
+.animationContainer .animationTextContent {
 	font-size: 16px;
 	color: #000;
 	line-height: 24px;
 }
 
-#carpool #thoughts .postList li:nth-child(n+5) {
+#thoughts .postList li:nth-child(n+5) {
 	display: none;
 }
 
-#carpool #thoughts .postList,
-#carpool #thoughts .postList .postItem {
+#thoughts .postList,
+#thoughts .postList .postItem {
 	overflow: hidden;
 }
 
-#carpool #thoughts .postTitle {
+#thoughts .postTitle {
 	font-size: 17px;
 	color: #67bc46;
 	line-height: 21px;
 	text-align: left;
 }
 
-#carpool #thoughts .postAuthor {
+#thoughts .postAuthor {
 	padding: 4px 0;
 	font-size: 14px;
 	color: #999999;
 	line-height: 21px;
 }
 
-#carpool #thoughts .postExcerpt {
+#thoughts .postExcerpt {
 	font-size: 14px;
 	line-height: 21px;
 }
 
-#carpool #thoughts .postBody {
+#thoughts .postBody {
 	line-height: 24px;
 	font-size: 16px;
 }
 
-#carpool #thoughts .postDefaultImage {
+#thoughts .postDefaultImage {
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 210px;
 }
 
-#carpool #thoughts .postSummary .readMore {
+#thoughts .postSummary .readMore {
 	font-size: 16px;
 	line-height: 42px;
 }
 
-#carpool #thoughts .loadMoreArticlesContainer {
+#thoughts .loadMoreArticlesContainer {
 	text-align: center;
 }
 
-#carpool #thoughts .loadMoreArticlesContainer .loadMoreArticles {
+#thoughts .loadMoreArticlesContainer .loadMoreArticles {
 	font-size: 16px;
 	color: #999999;
 	cursor: pointer;
 }
 
-#carpool #thoughts .postItem a {
+#thoughts .postItem a {
 	color: #67bc46;
 }
 
-#carpool #connect .apply a {
+#connect .apply a {
 	font-size: 28px;
 }
 
-#carpool #connect ul,
-#carpool #connect ol,
-#carpool #connect li {
+#connect ul,
+#connect ol,
+#connect li {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -557,52 +573,52 @@ ol {
 	background: transparent;
 }
 
-#carpool #connect .memberList {
+#connect .memberList {
 	margin-left: -28px;
 	overflow: hidden;
 }
 
-#carpool #connect .memberList li {
+#connect .memberList li {
 	margin: 0 0 56px 28px;
 	width: 182px;
 }
 
-#carpool #connect .member-image {
+#connect .member-image {
 	width: 182px;
 	height: 182px;
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 182px;
 }
 
-#carpool #connect .member-image {
+#connect .member-image {
 	float: left;
 }
 
-#carpool #connect .member-name {
+#connect .member-name {
 	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
 	font-size: 30px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
 
-#carpool #connect .member-role {
+#connect .member-role {
 	font-size: 16px;
 	margin-bottom: 14px;
 }
 
-#carpool #connect .contactLinks a {
+#connect .contactLinks a {
 	margin-right: 20px;
 }
 
-#carpool #connect .contactLinks i {
+#connect .contactLinks i {
 	font-size: 35px;
 	color: #999999;
 }
 
-#carpool #connect .contactLinks td a:last-of-type {
+#connect .contactLinks td a:last-of-type {
 	margin-right: 0;
 }
 
@@ -651,7 +667,6 @@ ol {
 	line-height: 24px;
 	font-size: 16px;
 	float: left;
-	width: 650px;
 	margin-bottom: 3em;
 }
 
@@ -670,8 +685,6 @@ ol {
 	left: 50%;
 	line-height: 70px;
 	overflow: hidden;
-	display: table;
-	margin: 0 auto;
 	margin-left: -415px;
 	position: absolute;
 	padding: 29px;
@@ -684,7 +697,7 @@ ol {
 	width: 100%;
 	height: 560px;
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-size: cover;
 	top: 0;
 	left: 0;
@@ -695,7 +708,7 @@ ol {
 	width: 100px;
 	height: 100px;
 	padding: 0;
-	background-position: center center;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 100px;
@@ -719,9 +732,8 @@ ol {
 }
 
 #postArticle .author {
-	width: 100px;
 	float: left;
-	margin: 25px 80px 0 -80px;
+	margin: 25px 25px 0 -25px;
 }
 
 #postArticle .author .picture {
@@ -732,7 +744,6 @@ ol {
 #postArticle .author .name {
 	margin-top: 1em;
 	font-weight: bold;
-	width: 50px;
 }
 
 #postArticle .btnTwitter,
@@ -744,7 +755,6 @@ ol {
 
 #postArticle .authorAndBody {
 	display: table;
-	margin: auto;
 }
 
 
@@ -752,30 +762,32 @@ ol {
  * HEADER *
  **********/
 
-#carpool .header {
-	position: absolute;
+.header {
+	position: fixed;
 	left: 0;
 	right: 0;
 	top: 0;
 	z-index: 8;
+	height: 69px;
 }
 
-#carpool .header a {
+.header a {
 	text-decoration: none;
 	color: #FFF;
 }
 
-#carpool .header .navContainer {
-	margin: 0 auto;
-	position: fixed;
-	height: auto;
-	width: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+.header .navContainer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+  	background-color: rgba(0, 0, 0, 0.8);
 	transition: all 400ms ease;
-  transition: all 400ms ease;
+  	transition: all 400ms ease;
 }
 
-#carpool .header .logoContainer {
+.header .logoContainer {
 	margin: 8px;
 	height: 53px;
 	background: url('/carpool/img/svg_icons/carpool_logo_white.svg');
@@ -784,26 +796,26 @@ ol {
 	margin-left: 14px;
 }
 
-#carpool .header .logoContainer .logo {
+.header .logoContainer .logo {
 	background-repeat: no-repeat;
 	display: inline-block;
 	height: 55px;
 	margin-top: 1.5rem;
 	will-change: margin-top;
 	transition: all 400ms ease;
-  transition: all 400ms ease;
+  	transition: all 400ms ease;
 }
 
-#carpool .header .menuContainer {
+.header .menuContainer {
 	padding-top: 29px;
 }
 
-#carpool .header .navContainer.shrink .logo {
+.header .navContainer.shrink .logo {
 	background-position-x: -133px;
 	margin-top: .5rem;
 }
 
-#carpool .header .menuContainer .globalNav li {
+.header .menuContainer .globalNav li {
 	display: inline;
 	margin-right: 21px;
 	font-size: 16px;
@@ -812,12 +824,15 @@ ol {
 	text-transform: uppercase;
 }
 
+.header .c-hamburger {
+  display: none; 
+}
 
 /*
  * Footer
  */
 
-#carpool .footer {
+.footer {
 	/*position: relative;*/
 	left: 0;
 	right: 0;
@@ -825,24 +840,26 @@ ol {
 	z-index: 7;
 }
 
-#carpool .footer .footerTopContainer .iconLink {
+.footer .footerTopContainer .iconLink {
 	width: 19%;
 }
 
-#carpool .footer .footerTopContainer .first.iconLink,
-#carpool .footer .footerTopContainer .last.iconLink {
+.footer .footerTopContainer .first.iconLink,
+.footer .footerTopContainer .last.iconLink {
 	width: 12%;
 }
 
-#carpool .footerLinksContainer {
+.footerLinksContainer {
+	position: relative;
 	background: url('/carpool/img/home_footer.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	height: 316px;
 }
 
-#carpool .footerLinksContainer .text {
+.footerLinksContainer .text {
 	font-size: 30px;
 	color: #ffffff;
 	line-height: 32px;
@@ -851,9 +868,8 @@ ol {
 	top: 141px;
 }
 
-#carpool .aboutFooterLinksContainer {
+.aboutFooterLinksContainer {
 	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpool/img/9831.jpg');
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpool/img/9831.jpg');
 	background-size: 100% auto;
 	height: 22em;
 	color: #FFF;
@@ -861,19 +877,19 @@ ol {
 	background-repeat: no-repeat;
 }
 
-#carpool .aboutFooterLinksContainer h1 {
+.aboutFooterLinksContainer h1 {
 	font-size: 3em;
 	font-weight: lighter;
 }
 
-#carpool .footer .mailIcon .footerEmail img {
+.footer .mailIcon .footerEmail img {
 	margin-top: 7px;
 }
 
 
 /* Message form */
 
-#carpool .footer .messageFormBackground {
+.footer .messageFormBackground {
 	position: relative;
 	background: #0c1d03;
 	display: none;
@@ -881,7 +897,7 @@ ol {
 	z-index: 5;
 }
 
-#carpool .footer .messageFormBackground input {
+.footer .messageFormBackground input {
 	padding: 10px 12px;
 	font-size: 20px;
 	margin-bottom: 28px;
@@ -890,17 +906,17 @@ ol {
 	color: #999;
 }
 
-#carpool .footer .messageFormBackground .nameInput {
+.footer .messageFormBackground .nameInput {
 	width: 49%;
 	float: left;
 }
 
-#carpool .footer .messageFormBackground .emailInput {
+.footer .messageFormBackground .emailInput {
 	width: 49%;
 	float: right;
 }
 
-#carpool .footer .messageFormBackground .topicInput {
+.footer .messageFormBackground .topicInput {
 	margin-top: 10px;
 	margin-bottom: 0;
 	width: 49%;
@@ -918,11 +934,11 @@ ol {
 	-webkit-border-radius: 0px; */
 }
 
-#carpool .footer .messageFormBackground .topicInputDropdownContainer {
+.footer .messageFormBackground .topicInputDropdownContainer {
 	width: 49%;
 }
 
-#carpool .footer .messageFormBackground .topicInputDropdown {
+.footer .messageFormBackground .topicInputDropdown {
 	padding: 10px 12px;
 	font-size: 20px;
 	border: 1px solid #ccc;
@@ -933,12 +949,12 @@ ol {
 	position: absolute;
 }
 
-#carpool .footer .messageFormBackground .topicInputDropdown li {
+.footer .messageFormBackground .topicInputDropdown li {
 	line-height: 28px;
 	cursor: pointer;
 }
 
-#carpool .footer .messageFormBackground .contentInput {
+.footer .messageFormBackground .contentInput {
 	padding: 10px 12px;
 	font-size: 20px;
 	margin-bottom: 30px;
@@ -951,12 +967,12 @@ ol {
 	overflow: auto;
 }
 
-#carpool .footer .messageFormBackground .messageText {
+.footer .messageFormBackground .messageText {
 	color: #FFF;
 	font-size: 20px;
 }
 
-#carpool .footer .messageFormBackground .sendButton {
+.footer .messageFormBackground .sendButton {
 	text-align: center;
 	cursor: pointer;
 }
@@ -964,46 +980,46 @@ ol {
 
 /* Location */
 
-#carpool .footer .location1 span,
-#carpool .footer .location2 span,
-#carpool .footer .location3 span,
+.footer .location1 span,
+.footer .location2 span,
+.footer .location3 span,
 .footer .location4 span {
 	opacity: 0;
 }
 
-#carpool .footer .locationAddressBackground {
+.footer .locationAddressBackground {
 	background: #333;
 	padding: 30px 20px 20px 20px;
   box-shadow: inset 0px 25px 30px -30px #000000;
 }
 
-#carpool .footer .locationAddressBackground .locationAddress {
+.footer .locationAddressBackground .locationAddress {
 	text-align: center;
 	color: #FFF;
 	font-size: 20px;
 }
 
-#carpool .footer .locationAddressBackground .locationContact {
+.footer .locationAddressBackground .locationContact {
 	text-align: center;
 	margin-top: 10px;
 }
 
-#carpool .footer .locationAddressBackground .locationContact a {
+.footer .locationAddressBackground .locationContact a {
 	color: #FFF;
 	font-size: 20px;
 	text-decoration: underline;
 }
 
-#carpool .footer .locationDropdownContainer {
+.footer .locationDropdownContainer {
 	/*position: relative;*/
 	display: none;
 }
 
-#carpool .footer .locationDropdownContainer iframe {
+.footer .locationDropdownContainer iframe {
 	display: block;
 }
 
-#carpool .footerTopContainer {
+.footerTopContainer {
 	position: relative;
 	height: auto;
 	bottom: 0;
@@ -1011,7 +1027,7 @@ ol {
 
 }
 
-#carpool .footerBottomContainer {
+.footerBottomContainer {
 	position: relative;
 	/*position: fixed;*/
 	/*-webkit-box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);
@@ -1019,11 +1035,11 @@ ol {
 	box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
-#carpool .footerTopContainer .centered {
+.footerTopContainer .centered {
 	width: 100%;
 }
 
-#carpool .footerTopContainer .textTop {
+.footerTopContainer .textTop {
 	display: table;
 	width: 100%;
 	position: relative;
@@ -1035,7 +1051,7 @@ ol {
 	box-shadow: inset 0px 25px 30px -30px rgba(0,0,0,1);*/
 }
 
-#carpool .footerTopContainer .textBottom {
+.footerTopContainer .textBottom {
 	display: table;
 	width: 100%;
 	position: absolute;
@@ -1044,24 +1060,24 @@ ol {
 	top: 196px;
 }
 
-# #carpool .footerTopContainer .textTop {
+# .footerTopContainer .textTop {
 	color: #FFF;
 	position: absolute;
 }
 
-#carpool .footerTopContainer .textBottom {
+.footerTopContainer .textBottom {
 	color: #FFF;
 	position: absolute;
 }
 
-#carpool .footerBottomContainer {
+.footerBottomContainer {
 	width: 100%;
 	padding: 30px 0 30px 0;
 	background: #4D4D4D;
 	bottom: 0px;
 }
 
-#carpool .footerLogo {
+.footerLogo {
 	background: transparent url('/carpool/img/svg_icons/carpool_logo_gray.svg') no-repeat;
 	background-size: contain;
 	width: 280px;
@@ -1069,28 +1085,28 @@ ol {
 	margin: 0 auto;
 }
 
-#carpool .footerCopyRightContainer {
+.footerCopyRightContainer {
 	text-align: center;
 	color: #666666;
 	font-size: 15px;
 	margin-top: 20px;
 }
 
-#carpool .noPointerEvent {
+.noPointerEvent {
 	pointer-events: none;
 }
 
-#carpool .welcomeButton {
+.welcomeButton {
 	color: #FFF;
 	text-align: center;
 	padding-top: .75em;
 }
 
-#carpool .footerButton {
+.footerButton {
 	padding-top: .75em;
 }
 
-#carpool .welcomeMessage {
+.welcomeMessage {
 	padding-top: 3em;
 	padding-bottom: 3em;
 	font-size: 16px;
@@ -1098,7 +1114,7 @@ ol {
 	color: #FFF;
 }
 
-#carpool .animationTextContainer a {
+.animationTextContainer a {
 	color: #67bc46;
 	-webkit-transition: color .4s ease-out;
 	-moz-transition: color .4s ease-out;
@@ -1107,15 +1123,16 @@ ol {
 	transition: color .4s ease-out;
 }
 
-#carpool .aboutSectionPicture {
+.aboutSectionPicture {
 	background-image: url('/carpool/img/sota.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	height: 316px;
 }
 
-#carpool .aboutSectionPicture .aboutSectionText {
+.aboutSectionPicture .aboutSectionText {
 	font-size: 30px;
 	color: #ffffff;
 	line-height: 32px;
@@ -1123,18 +1140,19 @@ ol {
 	padding-top: 142px;
 }
 
-#carpool #about .aboutTopPicture {
+#about .aboutTopPicture {
 	color: #FFF;
 	text-align: center;
 	background: url('/carpool/img/background_images/about_header.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	height: 55vh;
 	background-position-y: -170px;
 }
 
-#carpool #about .aboutTopPicture .aboutTopText {
+#about .aboutTopPicture .aboutTopText {
 	font-size: 30px;
 	color: #ffffff;
 	line-height: 32px;
@@ -1143,18 +1161,17 @@ ol {
 	text-transform: uppercase;
 }
 
-#carpool #work .workTopPicture {
+#work .workTopPicture {
 	color: #FFF;
 	text-align: center;
 	background: url('/carpool/img/development.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	height: 55vh;
-	background-position-y: -180px;
 }
 
-#carpool #work .workTopPicture .workTopText {
+#work .workTopPicture .workTopText {
 	margin: 0;
 	font-size: 30px;
 	color: #ffffff;
@@ -1163,25 +1180,28 @@ ol {
 	padding-top: 210px;
 }
 
-#carpool #thoughts .thoughtsTopPicture {
+#thoughts .thoughtsTopPicture {
 	color: #FFF;
 	text-align: center;
 	background: url('/carpool/img/background_images/thoughts_header.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	height: 55vh;
 	background-position-y: -80px;
 }
 
-#carpool #thoughts .thoughtsTopPicture h1 {
+#thoughts .thoughtsTopPicture h1 {
 	font-size: 48px;
 	font-weight: lighter;
 }
 
-#carpool .homeTopPicture {
+.homeTopPicture {
 	background: url('/carpool/img/background_images/carpool_header_resize.jpg');
 	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
 	height: inherit;
 	width: 100%;
 	position: relative;
@@ -1195,15 +1215,7 @@ ol {
 	width: 100%;
 }
 
-#carpool .enviroDesignImage {
-	margin: 42px 0 0 0;
-}
-
-#carpool .implementationImage {
-	margin: 35px 14px 0 0;
-}
-
-#carpool .supportImage {
+.supportImage {
 	margin: 25px 0 0 0;
 }
 
@@ -1212,7 +1224,7 @@ ol {
 	font-size: 16px;
 }
 
-#carpool .pdfIcon {
+.pdfIcon {
 	background: url('/carpool/img/CaseStudy_1.png');
 	width: 380px;
 	height: 255px;
@@ -1221,7 +1233,7 @@ ol {
 	margin-right: 3em;
 }
 
-#carpool .pdfIcon2 {
+.pdfIcon2 {
 	background: url('/carpool/img/CaseStudy_2.png');
 	width: 379px;
 	height: 255px;
@@ -1230,7 +1242,7 @@ ol {
 	margin-right: 3em;
 }
 
-#carpool .pdfIcon3 {
+.pdfIcon3 {
 	background: url('/carpool/img/CaseStudy_3.png');
 	width: 380px;
 	height: 242px;
@@ -1239,7 +1251,7 @@ ol {
 	margin-right: 3em;
 }
 
-#carpool #thoughts iframe {
+#thoughts iframe {
 	margin-right: 3em;
 	margin-bottom: 3em;
 }
@@ -1255,7 +1267,7 @@ ol {
 	background-color: transparent !important;
 }
 
-#carpool #setUpConvoButton {
+#setUpConvoButton {
 	background: #68bc47;
 	width: 281px;
 	height: 35px;
@@ -1265,7 +1277,7 @@ ol {
 	margin-top: 14px;
 }
 
-#carpool #setUpConvoButton .buttonInnerText {
+#setUpConvoButton .buttonInnerText {
 	font-size: 16px;
 	color: #ffffff;
 	line-height: 27px;
@@ -1273,7 +1285,7 @@ ol {
 	padding-left: 1em;
 }
 
-#carpool div.buttonInnerText:after {
+div.buttonInnerText:after {
 	content: '>';
 	padding-left: 0.5em;
 	/*top: -1px;*/
@@ -1281,11 +1293,11 @@ ol {
 	display: inline-block;
 }
 
-#carpool div.top-neg-1:after {
+div.top-neg-1:after {
 	top: -1px;
 }
 
-#carpool #about .overlay,
+#about .overlay,
 #thoughts .overlay,
 #work .overlay {
 	background: rgba(0, 0, 0, 0.3);
@@ -1294,11 +1306,14 @@ ol {
 
 #welcome .overlay {
 	background: rgba(0, 0, 0, 0.3);
-	width: 100vw;
-	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
 }
 
-#carpool .caseStudyGreenBar {
+.caseStudyGreenBar {
 	height: 10px;
 	background: #68bc47;
 	width: 18em;
@@ -1306,7 +1321,7 @@ ol {
 	float: left;
 }
 
-#carpool .postGrid .postItem {
+.postGrid .postItem {
 	border-width: 1px;
 	border-color: #ccc;
 	border-style: solid;
@@ -1315,9 +1330,9 @@ ol {
 	-moz-transition: 1s opacity ease-out;
 }
 
-#carpool .postGrid .postItem .postTitle,
-#carpool .postGrid .postItem .postAuthor,
-#carpool .postGrid .postItem .postExcerpt {
+.postGrid .postItem .postTitle,
+.postGrid .postItem .postAuthor,
+.postGrid .postItem .postExcerpt {
 	margin: 5px;
 }
 
@@ -1325,7 +1340,7 @@ ol {
 	margin-top: 1em;
 }
 
-#carpool .postGrid .postItem .postGreenBar {
+.postGrid .postItem .postGreenBar {
 	width: 100%;
 	height: 10px;
 	background-color: #68bc47;
@@ -1436,18 +1451,12 @@ blockquote:after {
 	line-height: 0.8em;
 }
 
-#carpool .sectionDetail .enlarge {
+.sectionDetail .enlarge {
 	color: #A4A4A4;
-	height: inherit;
-	width: inherit;
-	vertical-align: bottom;
-	display: table-cell;
 	text-align: center;
-	position: relative;
-	bottom: -20px;
 }
 
-#carpool .footer .contactFormDropdownContainer {
+.footer .contactFormDropdownContainer {
 	padding-top: 50px;
 	padding-bottom: 40px;
 	background: #333;
@@ -1456,7 +1465,7 @@ blockquote:after {
 	box-shadow: inset 0px 25px 30px -30px rgba(0, 0, 0, 1);
 }
 
-#carpool #contactForm .contactName {
+#contactForm .contactName {
 	display: block;
 	float: left;
 	line-height: 1.4em;
@@ -1467,7 +1476,7 @@ blockquote:after {
 	border: none;
 }
 
-#carpool #contactForm .contactEmail {
+#contactForm .contactEmail {
 	display: block;
 	float: left;
 	line-height: 1.4em;
@@ -1477,7 +1486,7 @@ blockquote:after {
 	border: none;
 }
 
-#carpool #contactForm .contactMessage {
+#contactForm .contactMessage {
 	width: 100%;
 	height: 10em;
 	margin-top: 1.5em;
@@ -1487,7 +1496,7 @@ blockquote:after {
 	border: none;
 }
 
-#carpool #contactForm .submitButton {
+#contactForm .submitButton {
 	background: rgba(0, 0, 0, 0);
 	font-size: 1.28em;
 	padding: 5px 40px;
@@ -1500,73 +1509,73 @@ blockquote:after {
 	outline: none;
 }
 
-#carpool #contactForm .contactCaption {
+#contactForm .contactCaption {
 	color: #FFF;
 	font-size: 21px;
 	margin: 0 0 28px 0;
 }
 
-#carpool #contactForm .contactMessageCaption {
+#contactForm .contactMessageCaption {
 	color: #FFF;
 	font-size: 21px;
 }
 
-#carpool #contactForm .contactName,
-#carpool #contactForm .contactEmail {
+#contactForm .contactName,
+#contactForm .contactEmail {
 	margin-bottom: 24px;
 }
 
-#carpool #contactForm .contactName,
-#carpool #contactForm .contactEmail,
-#carpool #contactForm .contactMessage {
+#contactForm .contactName,
+#contactForm .contactEmail,
+#contactForm .contactMessage {
 	outline-color: #68bc47;
 }
 
-#carpool #contactForm input::-webkit-input-placeholder {
+#contactForm input::-webkit-input-placeholder {
 	/* Chrome/Opera/Safari */
 	color: #ccc;
 }
 
-#carpool #contactForm input::-moz-placeholder {
+#contactForm input::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #ccc;
 }
 
-#carpool #contactForm input:-ms-input-placeholder {
+#contactForm input:-ms-input-placeholder {
 	/* IE 10+ */
 	color: #ccc;
 }
 
-#carpool #contactForm input:-moz-placeholder {
+#contactForm input:-moz-placeholder {
 	/* Firefox 18- */
 	color: #ccc;
 }
 
-#carpool #contactForm textarea::-webkit-input-placeholder {
+#contactForm textarea::-webkit-input-placeholder {
 	/* Chrome/Opera/Safari */
 	color: #ccc;
 }
 
-#carpool #contactForm textarea::-moz-placeholder {
+#contactForm textarea::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #ccc;
 }
 
-#carpool #contactForm textarea:-ms-input-placeholder {
+#contactForm textarea:-ms-input-placeholder {
 	/* IE 10+ */
 	color: #ccc;
 }
 
-#carpool #contactForm textarea:-moz-placeholder {
+#contactForm textarea:-moz-placeholder {
 	/* Firefox 18- */
 	color: #ccc;
 }
 
-#carpool .text-uppercase {
+.text-uppercase {
 	text-transform: uppercase;
 }
 
-#carpool #contactFormNotification {
+#contactFormNotification {
 	position: absolute;
 	top: 168px;
 	width: 812px;
@@ -1584,7 +1593,7 @@ blockquote:after {
 .locationDropdownContainer iframe {
   pointer-events: none;
 }
-#carpool footer.footer .c-58 {
+footer.footer .c-58 {
 	width: 100%;
 	max-width: 58em;
 	display: -ms-flexbox;
@@ -1610,9 +1619,9 @@ blockquote:after {
 	-ms-flex-align: center;
   -webkit-box-align: center;
 	align-items: center;
-	}
+}
 
-#carpool footer.footer .row.c-58 .iconLink {
+footer.footer .row.c-58 .iconLink {
 	-webkit-order: 0;
 	-ms-flex-order: 0;
   -webkit-box-ordinal-group: 1;
@@ -1630,14 +1639,221 @@ blockquote:after {
 	display:initial;
 	padding-top: 4em;
 	padding-bottom: 4em;
-	}
-	#carpool footer.footer .row.c-58 .iconLink.first {
-		width:auto;
-	}
-
-#carpool footer.footer .row.c-58 .iconLink img {
+}
+footer.footer .row.c-58 .iconLink.first {
+	width:auto;
+}
+footer.footer .row.c-58 .iconLink img {
 	float:none;
 	margin:0 auto;
 	width:auto;
 	display: block;
+}
+
+/***
+Responsive
+***/
+
+@media (max-width: 55em) {
+	.header .c-hamburger {
+		display: block;
+		position: absolute;
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		width: 56px;
+		height: 56px;
+		font-size: 0;
+		text-indent: -9999px;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		box-shadow: none;
+		border-radius: none;
+		border: none;
+		cursor: pointer;
+		-webkit-transition: background .3s;
+		transition: background 0.3s;
+		top: 8px;
+		right: 8px;
+		z-index: 10;
+		transform: scale(0.85);
+	}
+	.header .c-hamburger:focus {
+	  outline: 0; 
+	}
+	.header .c-hamburger span {
+		display: block;
+		position: absolute;
+		top: 24px;
+		left: 1px;
+		right: 1px;
+		height: 5px;
+		background: white; 
+	}
+	.header .c-hamburger span::after, 
+	.header .c-hamburger span::before {
+	    position: absolute;
+	    display: block;
+	    left: 0;
+	    width: 100%;
+	    height: 5px;
+	    background-color: #fff;
+	    content: ""; 
+	}
+	.header .c-hamburger--htla.is-active span::after,
+	.header .c-hamburger--htla.is-active span::before,
+	.header .c-hamburger--htra.is-active span::after,
+	.header .c-hamburger--htra.is-active span::before {
+		width: 50%; 
+	}
+	.header .c-hamburger span::before {
+		top: -20px; 
+	}
+	.header .c-hamburger span::after {
+		bottom: -20px; 
+	}
+	.header .c-hamburger--htx {
+		background-color: transparent; 
+	}
+	.header .c-hamburger--htx span {
+	    -webkit-transition: background 0s .3s;
+		transition: background 0s 0.3s; 
+	}
+	.header .c-hamburger--htx span::after,
+	.header .c-hamburger--htx span::before {
+	    -webkit-transition-duration: .3s, .3s;
+	    transition-duration: .3s, .3s;
+	    -webkit-transition-delay: .3s, 0s;
+	    transition-delay: 0.3s, 0s; 
+	}
+	.header .c-hamburger--htx span::before {
+	    -webkit-transition-property: top, -webkit-transform;
+	    transition-property: top, transform; 
+	}
+	.header .c-hamburger--htx span::after {
+	    -webkit-transition-property: bottom, -webkit-transform;
+	    transition-property: bottom, transform; 
+	}
+	.header .c-hamburger--htx.is-active span {
+		background: 0 0; 
+	}
+	.header .c-hamburger--htx.is-active span::before {
+	    top: 0;
+	    -webkit-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	    transform: rotate(45deg); 
+	}
+	.header .c-hamburger--htx.is-active span::after {
+		bottom: 0;
+	    -webkit-transform: rotate(-45deg);
+	    -ms-transform: rotate(-45deg);
+		transform: rotate(-45deg); 
+	}
+	.header .c-hamburger--htx.is-active span::after,
+	.header .c-hamburger--htx.is-active span::before {
+	    -webkit-transition-delay: 0s, .3s;
+		transition-delay: 0s, 0.3s; 
+	}
+	.header .menuContainer {
+		width: 230px;
+		height: 100%;
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		background-color: rgba(0, 0, 0, 0.85);
+		transform: translateX(230px);
+		will-change: transform;
+		transition: .3s transform ease-in-out;
+		margin-top: 69px;
+		padding-top: 0; 
+	}
+	.header .menuContainer .globalNav {
+	  	list-style: none;
+	  	z-index: 0; 
+	}
+	.header .menuContainer .globalNav li {
+	    display: block;
+	    margin: .25em; 
+	}
+	.header .menuContainer .globalNav li a {
+	 	margin: 1em 1.5em; 
+	 }
+	.menu-active.header .menuContainer {
+		transition: .3s transform ease-in-out;
+		transform: translateX(0px);
+		will-change: transform; 
+	}
+	.header .menuContainer .globalNav li a {
+		padding: 1.1em;
+		display: block; 
+	}
+}
+
+@media (max-width: 1400px) {
+	.topMediaContainer {
+		height: 850px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.topMediaContainer {
+		height: 750px;
+	}
+}
+
+@media (max-width: 1000px) {
+	.topMediaContainer {
+		height: 550px;
+	}
+	#postArticle .author {
+		width: 100%;
+		float: none;
+		margin-left: 0;
+		clear: both;
+	}
+	#postArticle .author .picture {
+		float: left;
+		margin-right: 2em;
+	}
+	#postArticle .btnStack {
+		width: 100%;
+	}
+	#postArticle .btnTwitter,
+	#postArticle .btnLinkedIn,
+	#postArticle .btnFacebook {
+		margin-top: 1em;
+	}
+	#postArticle .btnTwitter img,
+	#postArticle .btnLinkedIn img,
+	#postArticle .btnFacebook img{
+		height: 1.5em;
+		width: auto;
+	}
+}
+
+@media (max-width: 850px) {
+	.topMediaContainer {
+		height: 500px;
+	}
+	#postArticle .postTitle {
+		left: 0;
+		margin-left: 0;
+		width: 100%;
+	}
+	.c-43,
+	.c-58 {
+		width: 95%;
+	}
+
+	.postGridContainer {
+		width: 560px;
+	}
+}
+
+@media (max-width: 560px) {
+	.postGridContainer {
+		width: 285px;
+	}	
 }

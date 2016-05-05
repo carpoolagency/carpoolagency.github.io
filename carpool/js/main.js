@@ -91,7 +91,24 @@ var hideLocationDropdown = function ( ) {
         .slideUp( 200 );
 };
 
-$( function ( ) {
+(function() {
+    "use strict";
+    var toggles = document.querySelectorAll(".c-hamburger");
+    for (var i = toggles.length - 1; i >= 0; i--) {
+        var toggle = toggles[i];
+        toggleHandler(toggle);
+    };
+    function toggleHandler(toggle) {
+        toggle.addEventListener("click", function(e) {
+            e.preventDefault();
+            var cp = $('header');
+            (this.classList.contains("is-active") === true) ? this.classList.remove("is-active"): this.classList.add("is-active");
+            (cp.hasClass("menu-active") === true) ? cp.removeClass("menu-active"): cp.addClass("menu-active");
+        });
+    }
+})();
+
+$(function() {
     // IE scrolling override for smooth fixed position background effect
     if ( navigator.userAgent.match( /Trident\/7\./ ) ) {
         $( 'body' )
@@ -417,7 +434,9 @@ $( function ( ) {
         } );
 
     $( '#aboutReadMore' )
-        .readmore( );
+        .readmore({
+            'collapsedHeight': 195
+        });
 
     var validate = function ( input ) {
         if ( !input || input === "" ) {

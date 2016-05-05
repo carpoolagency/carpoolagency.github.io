@@ -9,33 +9,37 @@ layout: main
 		</div>
 	</div>
 
-	<div class="authorAndBody">
+	<div class="authorAndBody center-margin c-58">
 		{% if page.author %}
-		<div class="author">
-					<div class="picture"><div class="image" style="background-image: url('/carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div></div>						
-					<div class="name"><div>{{ page.author }}</div></div>						
-			<div class="btnStack">
-				{% if page.twitter %}
-				<a class="btnTwitter" href="{{page.twitter}}" target="_blank"><img src="/carpool/img/btn/twitter_icon.png"></a>
-				{% endif %}
-				{% if page.linkedin %}
-				<a class="btnLinkedIn" href="{{page.linkedin}}" target="_blank"><img src="/carpool/img/btn/linkedin_icon.png"></a>
-				{% endif %}
-				{% if page.facebook %}
-				<a class="btnFacebook" href="{{page.facebook}}" target="_blank"><img src="/carpool/img/btn/facebook_icon.png"></a>
-				{% endif %}
+		<div class="author c-7 overflow-hidden">
+			<div class="picture">
+				<div class="image" style="background-image: url('/carpool/img/profile/{% if page.authorImage %}{{ page.authorImage }}{% else %}Placeholder.png{% endif %}');"></div>
+			</div>
+			<div class="float-left">
+				<div class="name">{{ page.author }}</div>
+				<div class="btnStack">
+					{% if page.twitter %}
+					<a class="btnTwitter" href="{{page.twitter}}" target="_blank"><img src="/carpool/img/btn/twitter_icon.png"></a>
+					{% endif %}
+					{% if page.linkedin %}
+					<a class="btnLinkedIn" href="{{page.linkedin}}" target="_blank"><img src="/carpool/img/btn/linkedin_icon.png"></a>
+					{% endif %}
+					{% if page.facebook %}
+					<a class="btnFacebook" href="{{page.facebook}}" target="_blank"><img src="/carpool/img/btn/facebook_icon.png"></a>
+					{% endif %}
+				</div>
 			</div>
 		</div>
 		{% endif %}
 
 		{% if page.noAuthor %}
-		<div id="postBody" style="margin-left: -115px;">
+		<div id="postBody" class="c-43">
 			<p>{{ content }}</p>
 		</div>
 		{% endif %}
 
 		{% if page.author %}
-		<div id="postBody">
+		<div id="postBody" class="c-43">
 			<p>{{ content }}</p>
 		</div>
 		{% endif %}
