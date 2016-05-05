@@ -426,8 +426,7 @@ textarea:-ms-input-placeholder {
 
 .sectionDetailContainer .animationTextHeader {
 	font-size: 40px;
-	line-height: 28px;
-	margin-bottom: 39px;
+	margin-bottom: 1em;
 }
 
 .sectionDetailContainer .animationTextHeader a {
@@ -1168,9 +1167,7 @@ textarea:-ms-input-placeholder {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	height: 55vh;
-	background-position-y: -180px;
 }
 
 #work .workTopPicture .workTopText {
