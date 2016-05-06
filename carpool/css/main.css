@@ -226,41 +226,6 @@ textarea:-ms-input-placeholder {
 	margin-top: 10px;
 }
 
-.bgMedia {
-	width: 100%;
-	height: 100vh;
-	min-height: 800px;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-#welcome .topMediaContainer video {
-	display: block;
-	/* object-fit: fill; */
-	min-height: 100%;
-	min-width: 100%;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate3d(-50%, -50%, 0);
-	transform: translate3d(-50%, -50%, 0);
-}
-
-#welcome .welcomeVideo-darkCover {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: #000;
-	-ms-filter: "alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	opacity: .30;
-}
-
 #welcome .welcomeHeaderOverlay {
 	position: absolute;
 	bottom: 95px;
@@ -296,63 +261,6 @@ textarea:-ms-input-placeholder {
 
 #welcome .welcomeHeaderOverlay .welcomeMenu li:last-child {
 	margin-right: 0;
-}
-
-.video-overlay {
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 280px;
-}
-
-#thoughts .video-overlay {
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 224px;
-}
-
-.video-overlay .wrapper {
-	padding: 42px 28px 49px 28px;
-	position: relative;
-}
-
-.video-overlay .wrapper .transparentBg {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: #000;
-	-ms-filter: "alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-	opacity: .70;
-}
-
-.video-overlay .overlayTitle {
-	font-size: 56px;
-	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
-	color: #FFF;
-	margin-bottom: 15px;
-}
-
-.video-overlay .overlayText {
-	font-size: 16px;
-	line-height: 24px;
-	color: #FFF;
-}
-
-.video-overlay .overlayAuthor {
-	font-size: 16px;
-	color: #999999;
-	margin-bottom: 15px;
-}
-
-.video-overlay .overlayReadMore {
-	font-size: 16px;
-	color: #67bc46;
-	display: block;
-	margin-top: 15px;
 }
 
 .sectionDetailContainer {
