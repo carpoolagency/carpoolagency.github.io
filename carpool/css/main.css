@@ -228,7 +228,7 @@ textarea:-ms-input-placeholder {
 
 #welcome .welcomeHeaderOverlay {
 	position: absolute;
-	bottom: 95px;
+	bottom: 15%;
 	left: -25px;
 	right: 0;
 }
@@ -1630,7 +1630,7 @@ Responsive
 
 @media (max-width: 1000px) {
 	#welcome .welcomeTopPicture {
-		height: 550px;
+		height: 55vh;
 	}
 	#postArticle .author {
 		width: 100%;
@@ -1659,9 +1659,6 @@ Responsive
 }
 
 @media (max-width: 850px) {
-	#welcome .welcomeTopPicture {
-		height: 500px;
-	}
 	#postArticle .postTitle {
 		left: 0;
 		margin-left: 0;
@@ -1678,6 +1675,10 @@ Responsive
 }
 
 @media (max-width: 560px) {
+	#welcome .welcomeTopPicture,
+	.heroImage {
+		height: 40vh;
+	}
 	.postGridContainer {
 		width: 285px;
 	}	
