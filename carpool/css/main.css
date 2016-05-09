@@ -126,50 +126,6 @@ p {
 	margin: 1em 0;
 }
 
-/* Background colors */
-
-.background-light {
-	background-color: #FFF;
-}
-
-.bg-darkGreen {
-	background: #309600;
-}
-
-.bg-green {
-	background: #68bc47;
-}
-
-.bg-lightGreen {
-	background: #68bc47;
-}
-
-.bg-yellow {
-	background: #f9ec31;
-}
-
-
-/* Color */
-
-.green {
-	color: #68bc47;
-}
-
-.lightGreen {
-	color: #a2e03f;
-}
-
-.darkGreen {
-	color: #309600;
-}
-
-.yellow {
-	color: #f9ec31;
-}
-
-.gray {
-	color: #999999;
-}
 
 .pageNavLink.active {
 	font-weight: 700;
@@ -180,12 +136,6 @@ p {
 	position: relative;
 	z-index: 5;
 	background-color: #FFF;
-}
-
-.topMediaContainer {
-	width: 100%;
-	height: 100vh;
-	overflow: hidden;
 }
 
 .innerContainer {
@@ -276,44 +226,9 @@ textarea:-ms-input-placeholder {
 	margin-top: 10px;
 }
 
-.bgMedia {
-	width: 100%;
-	height: 100vh;
-	min-height: 800px;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-#welcome .topMediaContainer video {
-	display: block;
-	/* object-fit: fill; */
-	min-height: 100%;
-	min-width: 100%;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate3d(-50%, -50%, 0);
-	transform: translate3d(-50%, -50%, 0);
-}
-
-#welcome .welcomeVideo-darkCover {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: #000;
-	-ms-filter: "alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-	opacity: .30;
-}
-
 #welcome .welcomeHeaderOverlay {
 	position: absolute;
-	bottom: 95px;
+	bottom: 15%;
 	left: -25px;
 	right: 0;
 }
@@ -346,63 +261,6 @@ textarea:-ms-input-placeholder {
 
 #welcome .welcomeHeaderOverlay .welcomeMenu li:last-child {
 	margin-right: 0;
-}
-
-.video-overlay {
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 280px;
-}
-
-#thoughts .video-overlay {
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 224px;
-}
-
-.video-overlay .wrapper {
-	padding: 42px 28px 49px 28px;
-	position: relative;
-}
-
-.video-overlay .wrapper .transparentBg {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: #000;
-	-ms-filter: "alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-	opacity: .70;
-}
-
-.video-overlay .overlayTitle {
-	font-size: 56px;
-	font-family: 'HelveticaNeue-Light', 'Tahoma', serif;
-	color: #FFF;
-	margin-bottom: 15px;
-}
-
-.video-overlay .overlayText {
-	font-size: 16px;
-	line-height: 24px;
-	color: #FFF;
-}
-
-.video-overlay .overlayAuthor {
-	font-size: 16px;
-	color: #999999;
-	margin-bottom: 15px;
-}
-
-.video-overlay .overlayReadMore {
-	font-size: 16px;
-	color: #67bc46;
-	display: block;
-	margin-top: 15px;
 }
 
 .sectionDetailContainer {
@@ -849,39 +707,6 @@ textarea:-ms-input-placeholder {
 	width: 12%;
 }
 
-.footerLinksContainer {
-	position: relative;
-	background: url('/carpool/img/home_footer.jpg');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	height: 316px;
-}
-
-.footerLinksContainer .text {
-	font-size: 30px;
-	color: #ffffff;
-	line-height: 32px;
-	text-align: center;
-	position: relative;
-	top: 141px;
-}
-
-.aboutFooterLinksContainer {
-	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/carpool/img/9831.jpg');
-	background-size: 100% auto;
-	height: 22em;
-	color: #FFF;
-	text-align: center;
-	background-repeat: no-repeat;
-}
-
-.aboutFooterLinksContainer h1 {
-	font-size: 3em;
-	font-weight: lighter;
-}
-
 .footer .mailIcon .footerEmail img {
 	margin-top: 7px;
 }
@@ -1123,96 +948,96 @@ textarea:-ms-input-placeholder {
 	transition: color .4s ease-out;
 }
 
-.aboutSectionPicture {
-	background-image: url('/carpool/img/sota.jpg');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	height: 316px;
-}
-
-.aboutSectionPicture .aboutSectionText {
-	font-size: 30px;
-	color: #ffffff;
-	line-height: 32px;
-	text-align: center;
-	padding-top: 142px;
-}
-
-#about .aboutTopPicture {
-	color: #FFF;
-	text-align: center;
-	background: url('/carpool/img/background_images/about_header.jpg');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	height: 55vh;
-	background-position-y: -170px;
-}
-
-#about .aboutTopPicture .aboutTopText {
-	font-size: 30px;
-	color: #ffffff;
-	line-height: 32px;
-	text-align: center;
-	padding-top: 210px;
-	text-transform: uppercase;
-}
-
-#work .workTopPicture {
-	color: #FFF;
-	text-align: center;
-	background: url('/carpool/img/development.jpg');
+/*
+	Elements 
+*/
+.heroImage {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	height: 55vh;
-}
-
-#work .workTopPicture .workTopText {
-	margin: 0;
-	font-size: 30px;
-	color: #ffffff;
-	line-height: 32px;
-	text-align: center;
-	padding-top: 210px;
-}
-
-#thoughts .thoughtsTopPicture {
-	color: #FFF;
-	text-align: center;
-	background: url('/carpool/img/background_images/thoughts_header.jpg');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	height: 55vh;
-	background-position-y: -80px;
-}
-
-#thoughts .thoughtsTopPicture h1 {
-	font-size: 48px;
-	font-weight: lighter;
-}
-
-.homeTopPicture {
-	background: url('/carpool/img/background_images/carpool_header_resize.jpg');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	height: inherit;
+	position: relative;
 	width: 100%;
+}
+
+.heroImage .titleText {
+	font-size: 30px;
+	color: #FFF;
+	line-height: 32px;
+	text-align: center;
+	top: 50%;
+	text-transform: uppercase;
 	position: relative;
 }
 
-.homeTopPicture:before {
-	content: '';
-	background-color: rgba(0, 0, 0, 0.27);
-	position: absolute;
-	height: 100%;
+/* Absolute Positioning */
+.aa{position:absolute;left:0;right:0;top:0;bottom:0;}
+.at{position:absolute;top:0;}
+.ab{position:absolute;bottom:0;}
+.al{position:absolute;left:0;}
+.ar{position:absolute;right:0;}
+.overlay{position: absolute;bottom: 0;left: 0;right: 0;padding: 0.71428571428em;/*10px*/}
+
+/* Background Transparent */
+.bg-90{-ms-filter:"alpha(Opacity=90)";filter:alpha(opacity=90);opacity: .90;}
+.bg-85{-ms-filter:"alpha(Opacity=85)";filter:alpha(opacity=85);opacity: .85;}
+.bg-80{-ms-filter:"alpha(Opacity=80)";filter:alpha(opacity=80);opacity: .80;}
+.bg-75{-ms-filter:"alpha(Opacity=75)";filter:alpha(opacity=75);opacity: .75;}
+.bg-65{-ms-filter:"alpha(Opacity=65)";filter:alpha(opacity=65);opacity: .65;}
+.bg-60{-ms-filter:"alpha(Opacity=60)";filter:alpha(opacity=60);opacity: .60;}
+.bg-55{-ms-filter:"alpha(Opacity=55)";filter:alpha(opacity=55);opacity: .55;}
+.bg-40{-ms-filter:"alpha(Opacity=40)";filter:alpha(opacity=40);opacity: .40;}
+.bg-30{-ms-filter:"alpha(Opacity=30)";filter:alpha(opacity=30);opacity: .30;}
+.bg-20{-ms-filter:"alpha(Opacity=20)";filter:alpha(opacity=20);opacity: .20;}
+.bg-10{-ms-filter:"alpha(Opacity=10)";filter:alpha(opacity=10);opacity: .10;}
+
+/* Background Color */
+.bg-white{background-color: #FFF;}
+.bg-black{background-color: #000;}
+.bg-darkGreen{background-color: #309600;}
+.bg-green{background-color: #68BC47;}
+.bg-lightGreen{background-color: #a2e03f;}
+.bg-yellow{background-color: #f9ec31;}
+
+/* Color */
+.black{color: #000;}
+.white{color: #FFF;}
+.green{color: #68BC47;}
+.lightGreen{color: #a2e03f;}
+.darkGreen{color: #309600;}
+.yellow{color: #f9ec31;}
+.gray{color: #999999;}
+
+/*
+	Pages
+*/
+#about .aboutSectionPicture {
+	background-image: url('/carpool/img/sota.jpg');
+	height: 316px;
+}
+
+#about .aboutTopPicture {
+	background-image: url('/carpool/img/background_images/about_header.jpg');
+}
+
+#work .workTopPicture {
+	background-image: url('/carpool/img/development.jpg');
+}
+
+#thoughts .thoughtsTopPicture {
+	background-image: url('/carpool/img/background_images/thoughts_header.jpg');
+}
+
+#welcome .welcomeTopPicture {
+	background-image: url('/carpool/img/background_images/carpool_header_resize.jpg');
 	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+}
+
+#welcome .welcomeSectionPicture {
+	background-image: url('/carpool/img/home_footer.jpg');
+	height: 316px;
 }
 
 .supportImage {
@@ -1792,20 +1617,20 @@ Responsive
 }
 
 @media (max-width: 1400px) {
-	.topMediaContainer {
+	#welcome .welcomeTopPicture {
 		height: 850px;
 	}
 }
 
 @media (max-width: 1200px) {
-	.topMediaContainer {
+	#welcome .welcomeTopPicture {
 		height: 750px;
 	}
 }
 
 @media (max-width: 1000px) {
-	.topMediaContainer {
-		height: 550px;
+	#welcome .welcomeTopPicture {
+		height: 55vh;
 	}
 	#postArticle .author {
 		width: 100%;
@@ -1834,9 +1659,6 @@ Responsive
 }
 
 @media (max-width: 850px) {
-	.topMediaContainer {
-		height: 500px;
-	}
 	#postArticle .postTitle {
 		left: 0;
 		margin-left: 0;
@@ -1853,6 +1675,10 @@ Responsive
 }
 
 @media (max-width: 560px) {
+	#welcome .welcomeTopPicture,
+	.heroImage {
+		height: 40vh;
+	}
 	.postGridContainer {
 		width: 285px;
 	}	
