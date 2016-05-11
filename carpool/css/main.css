@@ -1012,7 +1012,7 @@ textarea:-ms-input-placeholder {
 	Pages
 */
 #about .aboutSectionPicture {
-	background-image: url('/carpool/img/sota.jpg');
+	background-image: url('/carpool/img/background_images/sota.jpg');
 	height: 316px;
 }
 
@@ -1021,7 +1021,7 @@ textarea:-ms-input-placeholder {
 }
 
 #work .workTopPicture {
-	background-image: url('/carpool/img/development.jpg');
+	background-image: url('/carpool/img/background_images/development.jpg');
 }
 
 #thoughts .thoughtsTopPicture {
@@ -1029,14 +1029,14 @@ textarea:-ms-input-placeholder {
 }
 
 #welcome .welcomeTopPicture {
-	background-image: url('/carpool/img/background_images/carpool_header_resize.jpg');
+	background-image: url('/carpool/img/background_images/carpool_header.jpg');
 	width: 100%;
 	height: 100vh;
 	overflow: hidden;
 }
 
 #welcome .welcomeSectionPicture {
-	background-image: url('/carpool/img/home_footer.jpg');
+	background-image: url('/carpool/img/background_images/home_footer.jpg');
 	height: 316px;
 }
 
@@ -1047,33 +1047,6 @@ textarea:-ms-input-placeholder {
 #aboutReadMore + [data-readmore-toggle] {
 	color: #67bc46;
 	font-size: 16px;
-}
-
-.pdfIcon {
-	background: url('/carpool/img/CaseStudy_1.png');
-	width: 380px;
-	height: 255px;
-	background-size: contain;
-	float: left;
-	margin-right: 3em;
-}
-
-.pdfIcon2 {
-	background: url('/carpool/img/CaseStudy_2.png');
-	width: 379px;
-	height: 255px;
-	background-size: contain;
-	float: left;
-	margin-right: 3em;
-}
-
-.pdfIcon3 {
-	background: url('/carpool/img/CaseStudy_3.png');
-	width: 380px;
-	height: 242px;
-	background-size: contain;
-	float: left;
-	margin-right: 3em;
 }
 
 #thoughts iframe {
@@ -1672,6 +1645,13 @@ Responsive
 	.postGridContainer {
 		width: 560px;
 	}
+
+	.sectionDetailContainer .sectionDetailImage {
+		width: 35%;
+	}
+	.sectionDetailContainer .animationTextContainer {
+		width: 60%;
+	}
 }
 
 @media (max-width: 560px) {
@@ -1681,5 +1661,25 @@ Responsive
 	}
 	.postGridContainer {
 		width: 285px;
-	}	
+	}
+
+	.sectionDetailContainer .sectionDetailImage {
+		width: 45%;
+	}
+	.sectionDetailContainer .animationTextContainer {
+		width: 50%;
+	}
+}
+
+@media (max-width: 480px) {
+	.sectionDetailContainer .sectionDetailImage {
+		width: 75%;
+		float: none;
+		margin: 0 auto;
+	}
+	.sectionDetailContainer .animationTextContainer {
+		width: 100%;
+		float: none;
+		margin-bottom: 3em;
+	}
 }
