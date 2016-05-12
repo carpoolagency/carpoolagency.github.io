@@ -21,7 +21,7 @@ Sure, there are tools that make it easier to collaborate, but tools alone don’
   
 Unless a healthy share of your work is readily available to anyone who cares to look, you’re not truly working out loud.   
 
-For instance, it won’t do much good to exclusively use [Facebook at Work or Yammer](http://carpoolagency.com/articles/Switching-from-Yammer-to-Facebook-at-Work-First-Impressions-Part-1.html) if you’re doing nothing more than sending private messages. The power of these tools lies in your ability to hold an open dialogue, just as working in a shared OneNote is more inclusive than passing attached documents over email.   
+For instance, it won’t do much good to exclusively use Facebook at Work or Yammer if you’re doing nothing more than sending private messages. The power of these tools lies in your ability to hold an open dialogue, just as working in a shared OneNote is more inclusive than passing attached documents over email.   
 
 2: Willingness to Share Knowledge    
 ---------------------------------
