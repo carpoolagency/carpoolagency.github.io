@@ -29,7 +29,7 @@ Remember way back when you registered your first email address, back in the days
 
 It can be that way again. Your inbox can once again be a dedicated place where formal and meaningful engagement deserve active participation in a conversation. The key is to diversify your communication platforms.
 
-[Yammer and Facebook at Work](http://carpoolagency.com/articles/Switching-from-Yammer-to-Facebook-at-Work-First-Impressions-Part-2.html) are a few of the new environments where we can actively engage with people and content in a different way. Think of enterprise social groups as a collection of folders (like email) for a community. You really only care about a few; others, not so much. The groups you really care about allow for a community or team of like-minded individuals to work out loud. Working out loud benefits more people and results in work getting done more quickly.
+Yammer and Facebook at Work are a few of the new environments where we can actively engage with people and content in a different way. Think of enterprise social groups as a collection of folders (like email) for a community. You really only care about a few; others, not so much. The groups you really care about allow for a community or team of like-minded individuals to work out loud. Working out loud benefits more people and results in work getting done more quickly.
 
 Passive Consumption
 -------------------
