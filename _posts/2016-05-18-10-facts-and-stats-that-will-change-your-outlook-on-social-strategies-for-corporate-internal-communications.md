@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/10Facts.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_10Facts.jpg
-stage: true
 ---
 Enterprise social, as a term, suffers from buzzword syndrome. These [internal communications networks](http://carpoolagency.com/work/) have proliferated across so many organizations, that it can be easy to lose sight of what actually makes them useful for day-to-day business.
 
