@@ -1475,6 +1475,8 @@ footer.footer .row.c-58 .iconLink img {
 	display: block;
 }
 
+#about .animationTextContent iframe {max-width: 560px; min-height: 315px;}
+
 /***
 Responsive
 ***/
@@ -1681,5 +1683,6 @@ Responsive
 	}
 	.postGridContainer {
 		width: 285px;
-	}	
+	}
+	#about .animationTextContent iframe {min-height: 215px;}
 }
