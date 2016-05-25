@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/FeedbackLoop.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_FeedbackLoop.jpg
-stage: true
 ---
 
 In a 2006 interview with James Lipton on Inside the Actor's Studio, Dustin Hoffman recalled a dinner he had with the late Laurence Olivier.
