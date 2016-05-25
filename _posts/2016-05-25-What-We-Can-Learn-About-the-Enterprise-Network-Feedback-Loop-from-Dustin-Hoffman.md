@@ -26,13 +26,13 @@ In mid-2014, Dr. Stephanie Tobin of the University of Queensland School of Psych
  
 She went on to say, "The results clearly identified that active participation is necessary to decrease feelings of social rejection."
  
-Sharing through a collaborative environment (whether external or internal [enterprise social[(http://carpoolagency.com/articles/Being-Social-is-Like-Learning-to-eat-Vegetables.html)) builds connections between people. And the University of Queensland isn't the only organization releasing such data. In fact, [New York Times Insights](http://nytmarketing.whsites.net/mediakit/pos/) found, based on survey results, that 73 percent of people share information because it helps them connect with others who share their interests. Overall, they concluded that people share content:
+Sharing through a collaborative environment (whether external or internal [enterprise social[(http://carpoolagency.com/articles/Being-Social-is-Like-Learning-to-eat-Vegetables.html) ) builds connections between people. And the University of Queensland isn't the only organization releasing such data. In fact, [New York Times Insights](http://nytmarketing.whsites.net/mediakit/pos/) found, based on survey results, that 73 percent of people share information because it helps them connect with others who share their interests. Overall, they concluded that people share content:
  
-*To bring valuable and entertaining content to others 
-*To define themselves to others 
-*To grow and nourish relationships 
-*Self-fulfillment 
-*To get the word out about causes or brands
+* To bring valuable and entertaining content to others 
+* To define themselves to others 
+* To grow and nourish relationships 
+* Self-fulfillment 
+* To get the word out about causes or brands
  
 Beyond content that helps build networks, the same survey found that a vast majority (73 percent) process information more deeply, thoroughly, and thoughtfully when they share it. Additionally, 68 percent said they share to give people a better sense of who they are and what they care about.
  
