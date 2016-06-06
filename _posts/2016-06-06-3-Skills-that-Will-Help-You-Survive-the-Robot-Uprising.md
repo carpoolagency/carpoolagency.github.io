@@ -29,7 +29,7 @@ Computers are very good at interpreting emotions, but responding appropriately i
 
 The really hard problems can only be solved by teams. Research has revealed that the most effective groups at problem solving are not those with good "cohesion," smart leadership, or high motivation. The key is social sensitivity: the ability of team members to "read" each other, to anticipate, and read between the lines of other team members. Looking forward, the path to success is paved not with technology, but strategy that enhances team collaboration. Though many people have not jumped on board collaborative networks like Yammer or Facebook at Work, there are loads of valuable team-enhancing features there. It may sound silly, but I honestly believe that communication styled as a feed or chat, with all its emoticons and GIFs, makes all the necessary asynchronous communication so much richer, more natural, and as a result over time creates the kind of sensitivity we all need to work effectively.
 
-3. Storytelling
+3: Storytelling
 ---------------
 
 Humans are hard-wired to respond to stories, particularly those that tell the classic arc of overcoming-obstacles.
