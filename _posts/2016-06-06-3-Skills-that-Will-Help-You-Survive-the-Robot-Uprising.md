@@ -5,7 +5,6 @@ author: Chris Slemp
 authorImage: chris.jpg
 defaultImage: /carpool/img/posts_images/RobotUprising.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_RobotUprising.jpg
-stage: true
 ---
 The robots aren’t just coming—they’re here already. Take a glimpse of the future and you’ll likely see a world in which machines, not humans, handle many of the tasks that currently require a flesh-and-blood brain to complete.
 
