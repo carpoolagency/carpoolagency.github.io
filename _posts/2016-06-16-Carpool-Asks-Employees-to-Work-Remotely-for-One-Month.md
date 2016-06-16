@@ -48,7 +48,7 @@ CONTACT INFORMATION
 
 **Jarom Reid**
 
-Twitter: [@djaromreid](https://twitter.com/jaromreid)
+Twitter: [@jaromreid](https://twitter.com/jaromreid)
 
 [Email](jarom.reidd@carpoolagency.com)
 
