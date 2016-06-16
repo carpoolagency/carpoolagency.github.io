@@ -547,7 +547,7 @@ textarea:-ms-input-placeholder {
 	position: absolute;
 	padding: 29px;
 	bottom: -70px;
-	background: white;
+	background: rgba(255, 255, 255, 0.9);
 }
 
 #postArticle .defaultImage {
