@@ -33,7 +33,7 @@ You must be a cheerleader. Someone who gets a community excited and prompts conv
 3: Provide Consistent Support
 -----------------------------
 
-Unpredictability will get you killed … metaphorically speaking. If you're out in the wild and struggling to lead your group to safety, inconsistency will be your ultimate downfall. Remember when Rick Grimes lost his cool and said “This is not a democracy anymore” in Season 2, and his leadership faltered?
+Unpredictability will get you killed … metaphorically speaking. If you're out in the wild and struggling to lead your group to safety, inconsistency will be your ultimate downfall.
 
 People need a consistent message. It's more than just a matter of comfort, but one of the defining qualities that separates effective leaders from the rest.
  
