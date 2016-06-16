@@ -3,8 +3,8 @@ layout: post
 title: Carpool Asks Employees to Work Remotely for One Month
 author: Colin Rigley
 authorImage: colin.jpg
-defaultImage: /carpool/img/posts_images/CarpoolLogo.jpg
-defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolLogo.jpg
+defaultImage: /carpool/img/posts_images/CarpoolWood.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolWood.jpg
 ---
 “See you in a month!”
 
