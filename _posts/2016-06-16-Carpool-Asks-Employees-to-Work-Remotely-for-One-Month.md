@@ -3,7 +3,6 @@ layout: post
 title: Carpool Asks Employees to Work Remotely for One Month
 defaultImage: /carpool/img/posts_images/CarpoolLogo.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolLogo.jpg
-stage: true
 ---
 A Social Experiment at Work
 ---------------------------
