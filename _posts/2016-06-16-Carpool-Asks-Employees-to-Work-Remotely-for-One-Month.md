@@ -50,7 +50,7 @@ CONTACT INFORMATION
 
 Twitter: [@jaromreid](https://twitter.com/jaromreid)
 
-[Email](jarom.reidd@carpoolagency.com)
+Email: jarom.reidd@carpoolagency.com
 
 
 [carpoolagency.com](http://www.carpoolagency.com)
