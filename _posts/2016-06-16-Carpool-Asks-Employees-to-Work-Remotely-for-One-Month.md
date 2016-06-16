@@ -5,6 +5,7 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/CarpoolLogo.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolLogo.jpg
+stage: true
 ---
 “See you in a month!”
 
