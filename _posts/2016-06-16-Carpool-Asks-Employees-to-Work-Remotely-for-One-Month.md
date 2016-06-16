@@ -46,11 +46,11 @@ Founded in early 2010, Carpool is a boutique internal communications consulting 
 CONTACT INFORMATION
 -------------------
 
-**Darren Litchfield, Account Director/Business Development at Carpool Agency**
+**Jarom Reid**
 
-Twitter: [@dalitchfield](https://twitter.com/dalitchfield)
+Twitter: [@djaromreid](https://twitter.com/jaromreid)
 
-Email: darren.litchfield@carpoolagency.com
+[Email](jarom.reidd@carpoolagency.com)
 
 
 [carpoolagency.com](http://www.carpoolagency.com)
