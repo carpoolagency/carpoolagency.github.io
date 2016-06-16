@@ -21,11 +21,17 @@ Though some may balk the idea of a working environment without a physical office
 
 
 *Reduce commute times
+
 *Lower overhead costs
+
 *Produce happier employees
+
 *Increase productivity
+
 *Strengthen retention rates
+
 *Bolster employees’ time with family
+
 *Help the environment
 
 In fact, in an analysis of the effects of working from home, [Stanford economics professor Nick Bloom](http://www.gsb.stanford.edu/insights/researchers-flexibility-may-be-key-increased-productivity) found that workers were happier, more productive, and saved the company money. Recent trends in generous paid family leave policies among companies like Microsoft, Facebook, and Netflix lend further evidence to the benefits of allowing employees to work remotely. And in a [FlexJobs survey](https://www.entrepreneur.com/article/239111) of 1,500 people,  82 percent of professionals said they would be more loyal if they were given more flexibility and 39 percent said they would even turn down a promotion or forego another job opportunity in favor of a flexible work space.
