@@ -46,11 +46,9 @@ Founded in early 2010, Carpool is a boutique internal communications consulting 
 CONTACT INFORMATION
 -------------------
 
-**Jarom Reid**
+[**Jarom Reid**](mailto:jarom.reid@carpoolagency.com)
 
 Twitter: [@jaromreid](https://twitter.com/jaromreid)
-
-Email: jarom.reidd@carpoolagency.com
 
 
 [carpoolagency.com](http://www.carpoolagency.com)
