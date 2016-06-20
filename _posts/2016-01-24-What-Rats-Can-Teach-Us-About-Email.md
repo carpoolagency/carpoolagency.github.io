@@ -4,7 +4,7 @@ title: What Rats and Heroin Can Teach Us About Email
 author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/rat.jpg
-defaultImage_thumb: /carpool/img/thumb_rat.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_rat.jpg
 ---
 The modern addict doesn’t need syringes or lighters, just an inbox.
 Instead of snorting line after line, we try to chip away out our lives one unread message at a time. Instead of sharing emails, we click “reply all.” We are addicted to email, and we need help.
