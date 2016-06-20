@@ -16,6 +16,8 @@ As a company that embodies the principles of working out loud, using collaborati
 
 During the so-called “Office Anywhere” experiment, Carpool employees will spend little, if any, time in the Carpool offices, located in downtown Bellevue. Though this type of experiment might seem daunting to some, for Carpool it’s more of a sidestep than a pivot when it comes to the way we work. Carpool employees often work from home, using collaborative networks like Facebook at Work and, previously, Yammer, to coordinate projects, pitch ideas, and stay on top of daily workflows. With Facebook at Work, for example, Carpool was able to successfully hire two account leads who are located thousands of miles away from our headquarters. Additionally, a longtime Carpool business lead recently moved cross-country to Atlanta, Ga., without any interruption to his output or ability to communicate with Washington-based team members.
 
+[![Carpool Office Anywhere Experiment](http://img.youtube.com/vi/u8rNZ22Mt6Y/0.jpg)](http://www.youtube.com/watch?v=u8rNZ22Mt6Y)
+
 Though some may balk the idea of a working environment without a physical office, working from home and offering a flexible environment have been show to:
 
 
