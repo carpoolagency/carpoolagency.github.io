@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/4WaysFacebook.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_4WaysFacebook.jpg
-stage: true
 ---
 Email is great, except when it’s not. In those times email isn’t great, it’s really not great. Not much about email has changed since it first emerged in the mid ’90s. Sure, we can attach images and embed links, but the basic concept is still the same.
 
