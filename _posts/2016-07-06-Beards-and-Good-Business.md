@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: colin.jpg
 defaultImage: /carpool/img/posts_images/BeardBusiness.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_BeardBusiness.jpg
-stage: true
 ---
 Science has taught us many things, but few that have been as insightful as the power of the beard. According to science, beards are tooootally hot, except when there's a lot of them—then unbearded faces are waaaay sexy. There are business applications to be gleaned from this observation, but first let’s really dive into the science of the beard. Be warned, this could get a little hairy. 
 
