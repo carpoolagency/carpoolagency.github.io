@@ -30,8 +30,6 @@ I think the enabler of that … was Facebook at Work and Yammer. Before we were 
 
 We realized at some point that the office we had was being replicated, by a degree, to the internal social network—it just happened to be Facebook. And because we’re more personable on Facebook, we thought we could capture a lot more of our company culture. So once we had that as our foundation, I think it’s a more effective form of an office than the actual physical location, because the physical location provides so many more distractions, whereas the digital version of the office is … asynchronous, so you don’t need to worry about being right there right now. It has a whole bunch of different functions and features that people are used to in their personal lives. It was just a natural transition.
 
-<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 240px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">Trust is one of the biggest motivators<br>that we had for this.<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
-
 So we’re talking about a lot of the positive aspects of this, but what were your concerns going into it?
 --------------------------------------------------------------------------------------------------------
 
@@ -39,9 +37,12 @@ That employees weren’t going to be as productive. It is still a concern; it’
 
 So one of the things that comes out of this effort—going in we were aware of it, but I think it’s even more important now that we’ve experienced this Office Anywhere experiment—is the evolution of middle management. We’ve talked to clients about this, we’ve noticed it ourselves that a middle manager is essentially a glorified babysitter where the intent is, “We’ll give you 10 people that report to you and your job is to make them like you so that we can become 10 times more productive than we were when it was just you.” The evolution of that middle manager, I think, is still the same outcome, but the way you get to that point is a little different, where you’re not necessarily babysitting them every day—watching over their shoulder, making sure that their at their seat, at their desk, etc.—you’re looking at what they’re producing, their output if you will. 
 
+<div style="font-size: 48px; color: #878787; line-height: 60px; width: 650px; padding: 50px 0 50px 0; height: 240px;"><img src="/carpool/img/quotes_open.png" style="width: 30px; display: block; float: left; margin-right: 20px;"><div style="display: block; width: 600px; float: left; padding-top: 20px;">Trust is one of the<br>biggest motivators that<br>we had for this.<img src="/carpool/img/quotes_close.png" style="width: 30px; margin: 0; display: inline; margin-left: 20px; transform: translateY(15px)"></div></div>
+
 And so if their output is increasing, and we track that using our tools—we can look using Facebook at Work; we can look using Asana, our task-tracking tool; we can use SharePoint; we can utilize Harvest, which is our hour-tracking tool—we’ve got these tools that are telling stories about how our people are working. Because that digital footprint is there, we’re able to analyze what that footprint looks like; we’re able to see gaps. 
 
 How do you oversee a remote staff?
+----------------------------------
 
 I use instant message as much as I can for one-on-one communication. So the three managers that report to me, my goal is to have engagement with them, of some kind, every single day. Every morning there’s a post that everyone is essentially required to do, which is “this is what I’m working on today.” I make sure that, with the people I manage, that I like those posts; I comment if I have questions; and then I make sure as soon as I can in the day, where it makes sense, I have one-on-one interaction with them.  
 
