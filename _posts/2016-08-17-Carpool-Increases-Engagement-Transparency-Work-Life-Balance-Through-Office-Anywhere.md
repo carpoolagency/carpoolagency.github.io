@@ -19,6 +19,8 @@ Some of the highlights from Office Anywhere included:
 * Mobile chat use increased from 60% to 85%
 * 92% of employees want to continue Office Anywhere
 
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/dD-EfaOuTPw" frameborder="0" allowfullscreen style="min-height: 387px;"></iframe>
+
 With the reduction in email usage alone, the average worker could save more than 100 hours per year that are ordinarily reserved for managing inboxes and place that energy to more productive tasks for the company.
 
 “We started the Office Anywhere experiment because we noticed that Carpool employees often suggested they were more productive outside the office,” said Carpool Cofounder Jarom Reid. “This experiment started with the hypothesis to test whether we could improve overall productivity, but it was fascinating to see that not only did our employees prefer the flexibility of a remote work environment, but they were able to get more work done and do it more quickly.”
