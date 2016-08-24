@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Ways to Improve Communication in a Remote Work Environment
+title: 4 Quick Ways to Increase Collaboration as a Community Manager
 author: Alexandra Kruse
 authorImage: alex.jpg
 defaultImage: /carpool/img/posts_images/CommunityCollaboration.jpg
