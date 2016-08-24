@@ -5,7 +5,6 @@ author: Alexandra Kruse
 authorImage: alex.jpg
 defaultImage: /carpool/img/posts_images/CommunityCollaboration.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CommunityCollaboration.jpg
-stage: true
 ---
 The workplace is changing.
 
