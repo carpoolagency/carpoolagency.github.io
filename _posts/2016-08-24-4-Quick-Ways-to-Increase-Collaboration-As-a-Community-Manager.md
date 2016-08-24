@@ -19,7 +19,7 @@ These tools mean employees can be [more productive from anywhere](http://carpool
 Although handling employees in a virtual social community can have overlap with the traditional in-person management style, there are a few things everyone should know in order to create a healthy, productive, and collaborative social community.
 
 
-1. Be Exciting
+1: Be Exciting
 --------------
 
 
@@ -28,7 +28,7 @@ Try implementing regular events or moments to reengage the community. An online 
 Use pictures, articles, and other pieces of relevant content to encourage people to join the conversation and, hopefully, inspire them to begin new conversations of their own.
 
 
-2. Call People Out
+2: Call People Out
 ------------------
 
 
@@ -39,7 +39,7 @@ People like to be validated, they like to be engaged, and they’re more likely 
 You’ll see a greater response rate and higher engagement when you call out people by name (by tagging them) rather than posting general, vague messages without a defined audience. Tagging a person in the conversation also adds a gentle pressure and visibility to the rest of the community. No one wants to look like they don’t care in front of their peers and management. 
  
 
-3. Recognize Efforts
+3: Recognize Efforts
 --------------------
 
 
@@ -48,7 +48,7 @@ As people become more active, be sure to give them some recognition. More than t
 This goes back to some of our previous tips, but once again you should call people out and highlight their good work for all to see. Positive reinforcement is the key to getting people excited and encouraged to continue participating.
 
 
-4.  Be the Host of the Party
+4:  Be the Host of the Party
 ----------------------------
 
 As the community manager, you are there to host the party. Make sure everyone feels comfortable sharing their ideas and thoughts. Step in when you notice someone being inappropriate. Point your community members in the right direction when they need help. 
