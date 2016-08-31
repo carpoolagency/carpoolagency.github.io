@@ -2,7 +2,7 @@
 layout: post
 title: 4 Quick Ways to Increase Collaboration as a Community Manager
 author: Alexandra Kruse
-authorImage: alex.jpg
+authorImage: Alex.jpg
 defaultImage: /carpool/img/posts_images/CommunityCollaboration.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CommunityCollaboration.jpg
 ---
