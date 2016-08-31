@@ -2,7 +2,7 @@
 layout: post
 title: The Great Jargon Throw Down
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/Jargon.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_Jargon.jpg
 ---
