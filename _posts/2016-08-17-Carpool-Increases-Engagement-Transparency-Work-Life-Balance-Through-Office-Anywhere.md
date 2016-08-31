@@ -2,7 +2,7 @@
 layout: post
 title: Carpool Increases Engagement, Transparency, Work-Life Balance Through Office Anywhere
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/CarpoolWood.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolWood.jpg
 ---
