@@ -2,7 +2,7 @@
 layout: post
 title: The Trolleyology Conundrum and the Zen of Compartmentalization
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/trolleyology.jpeg
 defaultImage_thumb: /carpool/img/posts_images/thumb_trolleyology.jpeg
 ---
