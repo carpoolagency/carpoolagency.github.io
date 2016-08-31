@@ -20,27 +20,27 @@ There’s a hush in the room; an air of anticipation among a group of strangers 
  
 Here are my tips on how to turn your Negative Nancy into a Positive Patty.
  
-1. Demonstrate Your Value
+1: Demonstrate Your Value
 -------------------------
 
 Chances are this isn’t the first time you encountered a difficult client. Show your value by highlighting [past projects that were a success](http://carpoolagency.com/work/). You are your own best advocate. Numbers are good; so are client testimonies. The more leverage you have, the easier it will be to convince others that you are the right person for the job.
  
-2. Do Your Research
+2: Do Your Research
 -------------------
 
 Prior to your meeting, get to know the client. With so many resources available, it shouldn’t be hard to find something useful. Knowledge really is power, particularly when it comes to client management. If you can talk about a specific problem your client is facing and provide a solution that could be implemented, you are one step closer to gaining their trust. 
  
-3. Be Confident
+3: Be Confident
 ---------------
 
 Enthusiasm is contagious and a positive attitude is your ally. Don’t let anyone pop your happy bubble. Clients like to see that you know what you’re talking about. Confidence is key in convincing skeptics that you are the right person for the job.
  
-4. Have a Plan
+4: Have a Plan
 --------------
 
 Prepare a proposal on how you can achieve success. Provide multiple routes for your road to success. Let your client decide what will work best from them, but don’t let them leave without knowing that no matter what option they choose, you will be there to help them succeed.
  
-5. Love Your Client
+5: Love Your Client
 -------------------
 
 Become BFFs with your client. Get to know their hobbies and interests. Again, [this all comes down to trust](https://medium.com/@cslemp/trust-and-open-collaboration-or-don-t-feed-the-xenomorphs-87bb6c195f0c#.t7mr8dnhc). The more your client knows that you truly care about them, the stronger your relationship will be. 
