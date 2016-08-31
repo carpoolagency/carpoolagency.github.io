@@ -2,7 +2,7 @@
 layout: post
 title: What Rats and Heroin Can Teach Us About Email
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/rat.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_rat.jpg
 ---
