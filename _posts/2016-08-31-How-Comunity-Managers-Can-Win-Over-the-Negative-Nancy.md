@@ -2,7 +2,7 @@
 layout: post
 title: How Comunity Managers Can Win Over the Negative Nancy
 author: Alexandra Kruse
-authorImage: alex.jpg
+authorImage: Alex.jpg
 defaultImage: /carpool/img/posts_images/NegativeNancy.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_NegativeNancy.jpg
 ---
