@@ -2,7 +2,7 @@
 layout: post
 title: 4 Ways You Can Implement Facebook at Work to Enhance Your Network Collaboration
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/4WaysFacebook.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_4WaysFacebook.jpg
 ---
