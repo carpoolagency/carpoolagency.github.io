@@ -2,7 +2,7 @@
 layout: post
 title: Effective Communication and the Information Flow
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/InformationFlow.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_InformationFlow.jpg
 ---
