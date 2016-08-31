@@ -5,7 +5,6 @@ author: Alexandra Kruse
 authorImage: alex.jpg
 defaultImage: /carpool/img/posts_images/NegativeNancy.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_NegativeNancy.jpg
-stage: true
 ---
 Being a great [community manager](http://carpoolagency.com/articles/Support-Services.html) means getting along with people, even the ones who don’t like you.
 
