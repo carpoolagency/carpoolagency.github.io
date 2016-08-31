@@ -2,7 +2,7 @@
 layout: post
 title: How to Leverage the Butterfly Effect
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/butterfly.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_butterfly.jpg
 ---
