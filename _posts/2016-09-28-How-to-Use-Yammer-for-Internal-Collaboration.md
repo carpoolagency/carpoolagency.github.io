@@ -2,7 +2,7 @@
 layout: post
 title: How to Use Yammer for Internal Collaboration
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/YammerInternalCollaboration.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_YammerInternalCollaboration.jpg
 stage: true
