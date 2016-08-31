@@ -2,7 +2,7 @@
 layout: post
 title: Professional and Personal Behavior, Creating Your Personal Brand
 author: Alexandra Kruse
-authorImage: alex.jpg
+authorImage: Alex.jpg
 defaultImage: /carpool/img/posts_images/ProfessionalPersonalBehavior.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_ProfessionalPersonalBehavior.jpg
 ---
