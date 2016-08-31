@@ -2,7 +2,7 @@
 layout: post
 title: 5 Arguments Against Going Social and How to Combat Them
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/arguments.jpeg
 defaultImage_thumb: /carpool/img/posts_images/thumb_arguments.jpeg
 ---
