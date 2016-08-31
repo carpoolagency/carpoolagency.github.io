@@ -2,7 +2,7 @@
 layout: post
 title: 5 Keys to Working Out Loud
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/5Keys.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_5Keys.jpg
 ---
