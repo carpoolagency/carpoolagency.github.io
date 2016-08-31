@@ -2,7 +2,7 @@
 layout: post
 title: 5 Ways to Improve Communication in a Remote Work Environment
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/5_Ways_Improve_Communication_1.jpg
 defaultImage_thumb: /carpool/img/posts_images/5_Ways_Improve_Communication_1.jpg
 ---
