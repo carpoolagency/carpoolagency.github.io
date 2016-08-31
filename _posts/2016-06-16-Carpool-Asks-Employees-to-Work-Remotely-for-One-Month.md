@@ -2,7 +2,7 @@
 layout: post
 title: Carpool Asks Employees to Work Remotely for One Month
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/CarpoolWood.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_CarpoolWood.jpg
 ---
