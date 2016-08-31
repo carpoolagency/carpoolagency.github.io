@@ -2,7 +2,7 @@
 layout: post
 title: Is Mobile the New Inbox?
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/ismobile.jpeg
 defaultImage_thumb: /carpool/img/posts_images/thumb_ismobile.jpeg
 ---
