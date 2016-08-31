@@ -2,7 +2,7 @@
 layout: post
 title: How Employers Can Best Handle a Remote Workforce
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/RemoteWorkforce.png
 defaultImage_thumb: /carpool/img/posts_images/thumb_RemoteWorkforce.png
 ---
