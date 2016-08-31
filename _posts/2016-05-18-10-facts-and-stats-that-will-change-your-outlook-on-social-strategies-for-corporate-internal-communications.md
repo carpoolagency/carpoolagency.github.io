@@ -2,7 +2,7 @@
 layout: post
 title: 10 facts and stats that will change your outlook on social strategies for corporate internal communications
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/10Facts.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_10Facts.jpg
 ---
