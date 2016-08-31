@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Ways to Improve Communication in a Remote Work Environment
+title: How Comunity Managers Can Win Over the Negative Nancy
 author: Alexandra Kruse
 authorImage: alex.jpg
 defaultImage: /carpool/img/posts_images/NegativeNancy.jpg
