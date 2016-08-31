@@ -2,7 +2,7 @@
 layout: post
 title: What We Can Learn About the Enterprise Network Feedback Loop from Dustin Hoffman
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/FeedbackLoop.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_FeedbackLoop.jpg
 ---
