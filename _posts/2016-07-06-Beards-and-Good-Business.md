@@ -2,7 +2,7 @@
 layout: post
 title: Beards and Good Business
 author: Colin Rigley
-authorImage: colin.jpg
+authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/BeardBusiness.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_BeardBusiness.jpg
 ---
