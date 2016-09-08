@@ -22,6 +22,7 @@ This week, we’re staying on the same topic, but turning to Account Director/Bu
 
 
 Darren Litchfield, Account Directer/Business Development
+--------------------------------------------------------
 
 Video, in general, adds another element to text and images. Meetings are enhanced as attendees can get much more context through body language. The next step is to make video conferences as convenient as a written message. A written message can be consumed when the recipient has time. This means communication can happen more quickly since you don’t have to wait for everyone to be available at the same time.
 
@@ -29,6 +30,7 @@ However, as this becomes more commonplace, some unwritten rules need to be estab
 
 
 Chris Slemp, Director of Strategy
+---------------------------------
 
 Darren hits some important points about our relative lack of comfort with video, especially if we’re not going to the effort to script something out and edit it. We’re still the TV/movie generation, and have grown up equating video with polish. However, the upcoming Selfie generation is much more comfortable in front of a camera. What is Snapchat if not [visual texting](http://www.nytimes.com/2016/05/22/magazine/how-i-learned-to-love-snapchat.html?_r=0) with myself as the subject? As we all get over our nerves and [embrace authenticity](http://carpoolagency.com/articles/Professional-and-Personal-Behavior-Creating-Your-Personal-Brand.html), casual video updates will become more natural.
 
