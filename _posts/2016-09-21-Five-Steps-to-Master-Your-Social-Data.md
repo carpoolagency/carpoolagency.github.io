@@ -36,34 +36,34 @@ So, yeah, data is kind of a big deal.
 
 ![KIND OF A BIG DEAL](http://blog.memes.com/wp-content/uploads/2015/05/big-Deal.png)
 
-If you have built a successful online community that you use for collaboration, here are five things you should keep in mind when analyzing your data.
+If you have figured out how to [build a successful online community](http://carpoolagency.com/articles/6-Tips-to-Build-a-Successful-Online-Community-and-Survive-the-Zombie-Apocalypse.html) that you use for collaboration, here are five things you should keep in mind when analyzing your data.
 
 
-1. Define success
+1: Define success
 -----------------
 
 Before you can measure how your community is doing, you need to understand what the definition of success is. Clear understanding of the business need will allow you to pivot your data in the most efficient way. Where possible, your metric should go further than just activity. For example, “responsiveness” is more relevant than just “number of posts.”
 
 
-2. Establish a Baseline
+2: Establish a Baseline
 -----------------------
 
 Capture your progress for about a week to a month. This will give a clear starting point of how active your community is. Use this data as your baseline and comparison for the future.
 
 
-3. Focus on What Matters
+3: Focus on What Matters
 ------------------------
 
 Once you understand what the definition of success is for your community, you can focus on the numbers that matter. Don’t try to overwhelm yourself and your community in achieving success in every area. It’s easy to get sidetracked, but try to focus on measuring and analyzing with your original business goal in mind.
 
 
-4. Adjust Your Strategy
+4: Adjust Your Strategy
 -----------------------
 
 Once you continue analyzing and comparing your data to the baseline you have established, you will see patterns. Adjust your strategy as needed based on the emerging patterns and themes in order to meet the business need that defines your success. 
 
 
-5. Compare and Continue
+5: Compare and Continue
 -----------------------
 
 Continue measuring data as often as you feel necessary. At Carpool, we prefer to check in on important numbers once per week. It provides an up-to-date snapshot of what’s going on and whether there are any red flags that need to be addressed. 
@@ -72,4 +72,4 @@ Continue measuring data as often as you feel necessary. At Carpool, we prefer to
 Need Help?
 ----------
 
-If you’d like to learn more about establishing an internal social community or how to strategically use data to improve the flow of information in your org and begin communicating more effectively, check out our approach.
+If you’d like to learn more about establishing an internal social community or how to strategically use data to improve the [flow of information](http://carpoolagency.com/articles/Effective-Communication-and-the-Information-Flow.html) in your org and begin communicating more effectively, check out [Carpool's approach](http://carpoolagency.com/#).
