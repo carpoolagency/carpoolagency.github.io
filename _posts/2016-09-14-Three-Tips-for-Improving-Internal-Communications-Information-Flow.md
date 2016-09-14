@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/3TipsImproving.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_3TipsImproving.jpg
-stage: true
 ---
 Sometimes at work we can get a little … backed up. When things aren't flowing properly, it can be uncomfortable, to say the least. Fortunately, all it takes to get things moving again is the proper alignment and technique. 
 
