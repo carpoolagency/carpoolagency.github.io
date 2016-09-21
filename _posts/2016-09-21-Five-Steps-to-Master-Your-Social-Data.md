@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/MasterSocialData.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_MasterSocialData.jpg
-stage: true
 ---
 
 Here’s the one thing people don’t seem to talk about when it comes to internal social collaboration networks like [Facebook at Work](http://carpoolagency.com/articles/4-Ways-You-Can-Implement-Facebook-at-Work-to-Enhance-Your-Network-Collaboration.html) and [Yammer](http://carpoolagency.com/articles/4-Ways-You-Can-Implement-Facebook-at-Work-to-Enhance-Your-Network-Collaboration.html)—and I really couldn’t tell you why it’s not the No. 1 selling point.
