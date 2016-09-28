@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/HowToUseYammer.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_HowToUseYammer.jpg
-stage: true
 ---
 Yammer can be a tricky beast. People accustomed to living in their inboxes might find the experience off-putting, or feel that a social or collaborative network isn’t well suited for the enterprise.
 
