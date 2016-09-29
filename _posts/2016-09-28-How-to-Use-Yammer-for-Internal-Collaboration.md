@@ -54,7 +54,7 @@ Some Final Quick Tips
 - Ask questions in your posts, this will increase your chances of spurring a conversation.
 - Keep it short and sweet. Get to the point, you can always elaborate later if needed.
 - Be positive and “like” other people’s posts. Use the “Praise” feature. Encourage your peers.
-- Keep private stuff private. Don’t share messages in a public groups without permission. 
+- Keep private stuff private. Don’t share messages in public groups without permission. 
 - Don’t share confidential documents without permission.
 - Don’t post when angry.
 - Avoid topics like politics, religion, or posting cat videos.
