@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/AsynchronousVideo1.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_AsynchronousVideo1.jpg
-stage: true
 ---
 
 Every day, it seems, we’re finding new, better ways to communicate. Memos are transitioning into internal blogs, email is moving over to collaborative platforms like Yammer and Facebook at Work, and now video is opening up even more ways to share information within an organization.
