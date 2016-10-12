@@ -5,7 +5,6 @@ author: Colin Rigley
 authorImage: Colin.jpg
 defaultImage: /carpool/img/posts_images/AsynchronousVideo2.jpg
 defaultImage_thumb: /carpool/img/posts_images/thumb_AsynchronousVideo2.jpg
-stage: true
 ---
 
 In the last installment of this series, “[Why Asynchronous Video is Awesome for Business Communications Part 1](http://carpoolagency.com/articles/Why-Asynchronous-Video-is-Awesome-for-Business-Communications-Part-1.html),” Jarom Reid and Alexandra Kruse shared some of their thoughts about asynchronous video.
