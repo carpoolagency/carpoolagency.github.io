@@ -32,7 +32,7 @@ Particularly in the areas of asynchronous communication, video offers a wealth o
 
 Workplace recently added [live video](https://work.fb.com/) to the platform. As live video broadcasts gain a foothold in the consumer world on the consumer Facebook site, Workplace presents the opportunity for people in your company to quickly broadcast their thoughts and important updates while gathering feedback from anyone who chooses to watch.
 
-At Carpool, we’ve been using Workplace video much more to share what we’re doing and to [collaborate remotely](http://carpoolagency.com/articles/Carpool-Asks-Employees-to-Work-Remotely-for-One-Month.html).
+At Carpool, we’ve been using Workplace video much more to share what we’re doing and to [work remotely](http://carpoolagency.com/articles/Carpool-Asks-Employees-to-Work-Remotely-for-One-Month.html).
 
 
 Trending Topics
