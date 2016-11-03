@@ -19,7 +19,7 @@ By continuing to ask the question “which tool should we use?” we’re priori
 
 ![OUTLOOK YAMMER TEAMS GRID](https://cdn-images-1.medium.com/max/2000/1*gkyoRJlijcWEqAZy6oKNhw.png)
 
-* *What I mean by conversation complexity is the spectrum from a flat chat stream where a conversation lasts minutes to multi-threaded conversations that last for weeks. *
+_What I mean by conversation complexity is the spectrum from a flat chat stream where a conversation lasts minutes to multi-threaded conversations that last for weeks._
 
 There are feature differences, of course. Editing posts. Rights management. URL-addressable conversations. API support. Analytics depth. GIFs. These should all be secondary to the primary purposes of your collaboration and the business value you need to derive from it.
 
