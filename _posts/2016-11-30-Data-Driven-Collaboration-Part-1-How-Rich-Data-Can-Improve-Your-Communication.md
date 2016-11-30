@@ -3,8 +3,8 @@ layout: post
 title: Data-Driven Collaboration Part 1: How Rich Data Can Improve Your Communication
 author: Chris Slemp
 authorImage: chris.jpg
-defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart1Lead.jpg
-defaultImage_thumb: /carpool/img/posts_images/thumb_DataDrivenCollaborationPart1Lead.jpg
+defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart1.jpg
+defaultImage_thumb: /carpool/img/posts_images/thumb_DataDrivenCollaborationPart1.jpg
 ---
 
 *This is the first of a series, coauthored by Laurence Lock Lee of [Swoop Analytics](http://swoopanalytics.com/) and Chris Slemp of [Carpool Agency](http://www.carpoolagency.com/), in which we will explain how you can use rich, people-focused data to enhance communication, increase collaboration, and develop a more efficient and productive workforce.*
