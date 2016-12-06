@@ -54,7 +54,7 @@ In our work with clients, Carpool teaches this concept by coaching influencers t
  
 In the chart below, we show a typical ‘Personal Network Performance’ chart, using Enterprise Social Networking data from the most active participants in an enterprise. The two dimensions broadly capture an individual’s personal network size (number of unique connections) against the depth of relationships they have been able to form with them (number of reciprocated two-way connections). They reflect our Engager persona characteristics. Additionally, we have sized the bubbles by a diversity index assessed by their posting behavior across multiple groups.
  
-![PERSONAL NETWORK PERFORMANCE](/carpool/img/posts_images/DataDrivenCollaborationPartPersonalNetworkPeformance.png)
+![PERSONAL NETWORK PERFORMANCE](/carpool/img/posts_images/DataDrivenCollaborationPart2PersonalNetworkPeformance.png)
 
 The true ‘Key Players’ on this chart can be seen in the top right-hand corner. These individuals have not only been able to attract a large audience, but also engaged with that audience and reciprocated two-way interactions. And the greater their diversity of connections (bubble size), the more effective they are likely to be.
  
