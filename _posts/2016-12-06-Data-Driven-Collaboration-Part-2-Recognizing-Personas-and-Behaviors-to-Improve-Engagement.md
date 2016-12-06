@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data-Driven Collaboration Part 2: Recognizing Personas and Behaviors to Improve Engagement
+title: Data-Driven Collaboration Part 2&#58; Recognizing Personas and Behaviors to Improve Engagement
 author: Chris Slemp
 authorImage: chris.jpg
 defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart1.jpg
