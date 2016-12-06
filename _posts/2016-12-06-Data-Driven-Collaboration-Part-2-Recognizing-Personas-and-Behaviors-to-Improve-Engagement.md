@@ -3,8 +3,8 @@ layout: post
 title: Data-Driven Collaboration Part 2&#58; Recognizing Personas and Behaviors to Improve Engagement
 author: Chris Slemp
 authorImage: chris.jpg
-defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart1.jpg
-defaultImage_thumb: /carpool/img/posts_images/DataDrivenCollaborationPart1.jpg
+defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart2.jpg
+defaultImage_thumb: /carpool/img/posts_images/DataDrivenCollaborationPart2.jpg
 stage: true
 ---
 
@@ -18,11 +18,15 @@ Only in the very initial stages of the launch of a new Enterprise Social Network
 
 For our purposes in this post, it will be useful to pivot our strategy to one that focuses on influential individuals. The community or team—whether it’s a community of practice, a community of shared interest, or a working team—isn’t a “group” or “si
 te,” but a collection of individuals, with all the messiness, pride, altruism, and politics implied. Data can be used to layer some purpose and direction over the messiness. 
+
 Patterns Become Personas
+------------------------
+
 The Swoop Social Network Analytics dashboard uniquely provides analytics that are customized to each person who is part of an organization’s ESN. Using the principle of “when you can see how you work, you are better placed to change how you work”, the intent is for individual collaborators to receive real-time feedback on their online collaboration patterns so they can respond appropriately in real-time. 
 
 We analyzed the individual online collaboration patterns across several organizations and identified a number of distinct trends that reflect the majority of personal collaboration behaviors. With that data, we were able to identify five distinct personas: Observers, Engagers, Catalysts, Responders, and Broadcasters.
 
+![INDIVIDUAL PERSONAS](/carpool/img/posts_images/DataDrivenCollaborationPart2Personas.png)
  
 In addition to classifying patterns into personas, we developed a means of ranking the preferred personas needed to enhance an organization’s overall collaboration performance. At the top we classify the Engager as a role that can grow and sustain a community or team through their balance of posting and responding. This is closely followed by the Catalyst, who can energize a community by provoking responses and engaging with a broad network of colleagues. The Responder ensures that participants gain feedback, which is an important role in sustaining a community. The Broadcaster is mostly seen as a negative persona: They post content, but tend not to engage in the conversations that are central to productive collaboration. Finally, we have the Observer, who are sometimes also called ‘lurkers’. Observers are seen as a negative persona with respect to collaboration. While they may indeed be achieving individual learning from the contribution of others, they are not explicitly collaborating.
  
@@ -30,7 +34,8 @@ Using Personas to Improve Your Online Collaboration Behavior
 ------------------------------------------------------------
 
 Individuals who log in to the Swoop platform are provided with a privacy-protected personal view of their online collaboration behaviors. The user is provided with their persona classification for the selected period, together with the social network of relationships that they have formed through their interactions:
- 
+
+![SWOOP SOCIAL NETWORK ANALYTICS](/carpool/img/posts_images/DataDrivenCollaborationPart2SwoopChart.png)
 
 You may notice that the balance between what you receive and what you contribute is central to determining persona classification. Balanced contributions amongst collaboration partners have been shown to be a key characteristic of high performing teams, hence the placement of the ‘Engager’ as the preferred persona.
  
@@ -49,6 +54,7 @@ In our work with clients, Carpool teaches this concept by coaching influencers t
  
 In the chart below, we show a typical ‘Personal Network Performance’ chart, using Enterprise Social Networking data from the most active participants in an enterprise. The two dimensions broadly capture an individual’s personal network size (number of unique connections) against the depth of relationships they have been able to form with them (number of reciprocated two-way connections). They reflect our Engager persona characteristics. Additionally, we have sized the bubbles by a diversity index assessed by their posting behavior across multiple groups.
  
+![PERSONAL NETWORK PERFORMANCE](/carpool/img/posts_images/DataDrivenCollaborationPart2PersonalNetworkPerformance.png)
 
 The true ‘Key Players’ on this chart can be seen in the top right-hand corner. These individuals have not only been able to attract a large audience, but also engaged with that audience and reciprocated two-way interactions. And the greater their diversity of connections (bubble size), the more effective they are likely to be.
  
