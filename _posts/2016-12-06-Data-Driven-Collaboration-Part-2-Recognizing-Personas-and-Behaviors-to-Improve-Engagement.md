@@ -5,7 +5,6 @@ author: Chris Slemp
 authorImage: chris.jpg
 defaultImage: /carpool/img/posts_images/DataDrivenCollaborationPart2.jpg
 defaultImage_thumb: /carpool/img/posts_images/DataDrivenCollaborationPart2.jpg
-stage: true
 ---
 
 In Part 1 of this series, “[Data-Driven Collaboration Design](http://carpoolagency.com/articles/Data-Driven-Collaboration-Part-1-How-Rich-Data-Can-Improve-Your-Communication.html)”—a collaboration between [Swoop Analytics](http://swoopanalytics.com/) and [Carpool Agency](http://carpoolagency.com)—we demonstrated how data can be used as a diagnostic tool to inform the goals and strategies that drive your business’ internal communication and collaboration. 
