@@ -12,7 +12,10 @@ In Part 1 of this series, “[Data-Driven Collaboration Design](http://carpoolag
 <!--more-->
 
 In this post, we will take that thought one step further and show how, after your course is charted to improve internal communication and collaboration, your data continues to play a vital role in shaping your journey.
+
 Monitoring More Than participation
+----------------------------------
+
 Only in the very initial stages of the launch of a new Enterprise Social Network (ESN) or group do we pay any attention to how much activity we see. Quickly, we move to watching such metrics as average response time; breadth of participation across the organization, teams, roles, or regions; and whether conversations are crossing those boundaries. We focus on measures that show something much closer to business value and motivate organizations to strengthen communities. 
 
 For our purposes in this post, it will be useful to pivot our strategy to one that focuses on influential individuals. The community or team—whether it’s a community of practice, a community of shared interest, or a working team—isn’t a “group” or “si
@@ -42,7 +45,7 @@ Our benchmarking of some 35 Yammer installations demonstrates that 71% of partic
 
 At Carpool, during a recent engagement with a client, we encountered a senior leadership team that was comprised of Broadcasters who relied on traditional internal communications. Through our coaching—all the while showing them data on their own behavior and the engagement of their audience—they have since transformed into Catalysts.
 
-One team, for example, had been recruiting beta testers through more traditional email broadcasts. But after just a few posts in a more interactive and visible environment, where we taught them how to invite an active conversation, they are have seen not only the value of more immediate feedback, but a larger turnout for their tests. Now, it’s all we can do to provide them with all the data they’re asking for!
+One team, for example, had been recruiting beta testers through more traditional email broadcasts. But after just a few posts in a more interactive and visible environment, where we taught them how to invite an active conversation, they have seen not only the value of more immediate feedback, but a larger turnout for their tests. Now, it’s all we can do to provide them with all the data they’re asking for!
  
 Identifying the Key Players for Building Increased Participation
 ----------------------------------------------------------------
