@@ -11,7 +11,7 @@ In Part 1 of our series on Data-Driven Collaboration, “[How Rich Data Can Impr
 
 <!--more-->
 
-Previously, we identified the importance of migrating from simple activity measures to those that identify when collaborative relationships are being formed. It is through these relationships that tangible outcomes are achieved. Therefore, it is not surprising that analytics—as applied to sustained relationship-building—plays an important role in continuous value delivery from collaboration.
+Previously, we identified the importance of migrating from simple activity measures to those that signify when collaborative relationships are being formed. It is through these relationships that tangible outcomes are achieved. Therefore, it is not surprising that analytics—as applied to sustained relationship-building—plays an important role in continuous value delivery from collaboration.
  
 For example, a CEO from one of Carpool’s clients had been using Yammer to receive questions for a regular Q&A session, but they’d grown concerned that the CEO’s infrequent posts in the group were creating an echo chamber among the same small group of contributors. Careful analysis showed that this was more perception than reality, and the group showed a great deal of variety in cross-organization conversation. As this was precisely the executive’s goal in forming the group, the team doubled down on their investment in this executive-to-company relationship.
 
@@ -59,14 +59,14 @@ For many organizations, continuous monitoring simply means monitoring activity o
 
 ![COLLABORATION CHART](/carpool/img/posts_images/DataDrivenCollaborationPart3_Graph.png)
 
-Carpool engagements use a set of such dashboards to regularly check in on all the various channels and stakeholders, and make recommendations on an ongoing basis that accounts for the holistic communication picture.
+At Carpool, our engagements use a set of such dashboards to regularly check in on all the various channels and stakeholders, and make recommendations on an ongoing basis that accounts for the holistic communication picture.
 
 Final Thoughts
 ----------------
 
 In this series, we have taken you on a journey from planning for, launching, and productively operating a digital office. At the very beginning we emphasized the need to collaborate for a purpose. We then emphasized the need to ‘engage’ through relationships and adopting appropriate behavioral personas. Finally, we have explained the importance of adopting a collaboration performance framework that can facilitate continuous delivery of value.
  
-In order to do all of this effectively, we need not only analytics, but interventions triggered by such analytics to improve the way we work. Analytics on their own don’t create change. But in the hands of skilled facilitators, analytics and rich data provide a platform for productive change. Collaboration is not simply about how to get better results for your organization, but also to get better results for yourself, by helping you to be a better collaborator.
+In order to do all of this effectively, we not only need analytics, but interventions triggered by such analytics to improve the way we work. Analytics on their own don’t create change. But in the hands of skilled facilitators, analytics and rich data provide a platform for productive change. Collaboration is not simply about how to get better results for your organization, but also to get better results for yourself, by helping you to be a better collaborator.
 
 Want More?
 ----------
