@@ -31,7 +31,7 @@ In the end, we were able to identify the real pain point for the client and help
 Use Data to Identify New Opportunities
 --------------------------------------
 
-Data can drive even the earliest strategy conversations. In Carpool’s first meeting with a global retail operation, they explained that they wanted to create a new Yammer network as they were trying to curb activity in another, unapproved network. Not only did we agree, but we brought data to that conversation that illustrated the exact size and shape of their compliance situation and the nature of the collaboration that was already happening. This set the tone for a project that is now laser-focused on demonstrating business value and not just bringing their network into compliance.
+Data can drive even the earliest strategy conversations. In Carpool’s first meeting with a global retail operation, they explained that they wanted to create a new Yammer network as they were trying to curb activity in another, unapproved network. Not only did we agree, but we brought data to that conversation from another analytics solution we use: [tyGraph](https://www.tygraph.com/). This data illustrated the exact size and shape of their compliance situation and the nature of the collaboration that was already happening. This set the tone for a project that is now laser-focused on demonstrating business value and not just bringing their network into compliance.
 
 Use Data to Identify and Enhance Your Strengths
 -----------------------------------------------
